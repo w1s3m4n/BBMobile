@@ -216,6 +216,3 @@ if __name__ == "__main__":
 
     print(f"{Fore.GREEN}[OK] Done! Please check 'all_apps.csv' file to filter the results.")
     print(f"{Fore.BLUE} Happy hacking! :)")
-    
-    
-    

@@ -1,0 +1,1602 @@
+platform,program,url,type,asset,assetid,instruction
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,android,,,Afterpay Android App
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,ios,,,Afterpay iOS App
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,android,,,Clearpay Android App
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,ios,,,Clearpay iOS App
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,ios,,,https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,ios,,,https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,android,,,https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
+bugcrowd,Afterpay Bug Bounty Program,https://bugcrowd.com/afterpay,android,,,https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
+bugcrowd,1Password,https://bugcrowd.com/agilebits,android,,,"<Your own 1Password account> —> Latest stable, beta, or nightly Android Build"
+bugcrowd,1Password,https://bugcrowd.com/agilebits,ios,,,"<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build"
+bugcrowd,Ampol,https://bugcrowd.com/ampol,android,,,Ampol Android mobile app
+bugcrowd,Ampol,https://bugcrowd.com/ampol,ios,,,Ampol iOS mobile app
+bugcrowd,Ampol,https://bugcrowd.com/ampol,android,,,Work@ampol
+bugcrowd,Ampol,https://bugcrowd.com/ampol,ios,,,https://apps.apple.com/au/app/caltex-australia/id1314768594
+bugcrowd,Ampol,https://bugcrowd.com/ampol,android,,,https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
+bugcrowd,Ampol,https://bugcrowd.com/ampol,android,,,https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
+bugcrowd,Arlo Cash Rewards,https://bugcrowd.com/arlo,android,,,Arlo Safe Android App
+bugcrowd,Arlo Cash Rewards,https://bugcrowd.com/arlo,ios,,,Arlo Safe iOS App
+bugcrowd,Arlo Cash Rewards,https://bugcrowd.com/arlo,android,,,Arlo Secure Android App
+bugcrowd,Arlo Cash Rewards,https://bugcrowd.com/arlo,ios,,,Arlo Secure iOS App
+bugcrowd,Asana,https://bugcrowd.com/asana,android,,,Asana Android app
+bugcrowd,Asana,https://bugcrowd.com/asana,ios,,,Asana iOS app
+bugcrowd,Asana,https://bugcrowd.com/asana,ios,,,https://apps.apple.com/us/app/asana-mobile/id489969512
+bugcrowd,Asana,https://bugcrowd.com/asana,android,,,https://play.google.com/store/apps/details?id=com.asana.app&hl=en
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,Confluence Cloud Mobile App for Android
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,Confluence Cloud Mobile App for iOS
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,Confluence Data Center Mobile App for Android
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,Confluence Data Center Mobile App for iOS
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,Jira Cloud Mobile App for Android
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,Jira Cloud Mobile App for iOS
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,Jira Data Center Mobile App for Android
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,Jira Data Center Mobile App for iOS
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,https://apps.apple.com/us/app/confluence-cloud/id1006971684
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,https://apps.apple.com/us/app/confluence-server/id1288365159
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,ios,,,https://apps.apple.com/us/app/jira-server/id1405353949
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
+bugcrowd,Atlassian,https://bugcrowd.com/atlassian,android,,,https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
+bugcrowd,Auth0 by Okta,https://bugcrowd.com/auth0-okta,android,,,Auth0 Guardian Android
+bugcrowd,Auth0 by Okta,https://bugcrowd.com/auth0-okta,ios,,,Auth0 Guardian IoS
+bugcrowd,Auth0 by Okta,https://bugcrowd.com/auth0-okta,ios,,,https://apps.apple.com/us/app/auth0-guardian/id1093447833
+bugcrowd,Auth0 by Okta,https://bugcrowd.com/auth0-okta,android,,,https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
+bugcrowd,Backblaze,https://bugcrowd.com/backblaze,android,,,Backblaze Android mobile application
+bugcrowd,Backblaze,https://bugcrowd.com/backblaze,ios,,,Backblaze iOS mobile application
+bugcrowd,Backblaze,https://bugcrowd.com/backblaze,ios,,,https://apps.apple.com/us/app/backblaze/id628638330
+bugcrowd,Backblaze,https://bugcrowd.com/backblaze,android,,,https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
+bugcrowd,BigCommerce,https://bugcrowd.com/bigcommerce,android,,,BigCommerce Android
+bugcrowd,BigCommerce,https://bugcrowd.com/bigcommerce,ios,,,BigCommerce iOS
+bugcrowd,BigCommerce,https://bugcrowd.com/bigcommerce,ios,,,https://apps.apple.com/au/app/bigcommerce/id1418570678
+bugcrowd,BigCommerce,https://bugcrowd.com/bigcommerce,android,,,https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
+bugcrowd,Binance,https://bugcrowd.com/binance,android,,,Binance Mobile Application for Android
+bugcrowd,Binance,https://bugcrowd.com/binance,ios,,,Binance Mobile Application for iOS
+bugcrowd,Binance,https://bugcrowd.com/binance,android,,,CoinMarketCap Android app
+bugcrowd,Binance,https://bugcrowd.com/binance,ios,,,CoinMarketCap iOS app
+bugcrowd,Binance,https://bugcrowd.com/binance,android,,,Trustwallet Android App
+bugcrowd,Binance,https://bugcrowd.com/binance,ios,,,Trustwallet iOS App
+bugcrowd,Bitpanda Ongoing Bug Bounty,https://bugcrowd.com/bitpanda-og-bb,android,,,Bitpanda Broker Android App
+bugcrowd,Bitpanda Ongoing Bug Bounty,https://bugcrowd.com/bitpanda-og-bb,ios,,,Bitpanda Broker iOS App
+bugcrowd,Bitpanda Ongoing Bug Bounty,https://bugcrowd.com/bitpanda-og-bb,ios,,,https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
+bugcrowd,Bitpanda Ongoing Bug Bounty,https://bugcrowd.com/bitpanda-og-bb,android,,,https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
+bugcrowd,Blue Jeans Network,https://bugcrowd.com/bluejeans,android,,,BlueJeans Android Application
+bugcrowd,Blue Jeans Network,https://bugcrowd.com/bluejeans,ios,,,BlueJeans iOS Application
+bugcrowd,Blue Jeans Network,https://bugcrowd.com/bluejeans,ios,,,https://drive.google.com/file/d/12aW9AIWXmIKEGhvNZcl0HQJQBDf3y8_V/view?usp=share_link
+bugcrowd,Blue Jeans Network,https://bugcrowd.com/bluejeans,android,,,https://drive.google.com/file/d/1UMVjnsnIpD4qOp_xzbmbv71SutI3xyDb/view?usp=share_link
+bugcrowd,Canva,https://bugcrowd.com/canva,android,,,Canva (Android)
+bugcrowd,Canva,https://bugcrowd.com/canva,ios,,,Canva (iOS)
+bugcrowd,Majid Al Futtaim Retail,https://bugcrowd.com/carrefour,android,,,Carrefour UAE Android
+bugcrowd,Majid Al Futtaim Retail,https://bugcrowd.com/carrefour,ios,,,Carrefour UAE iOS
+bugcrowd,Majid Al Futtaim Retail,https://bugcrowd.com/carrefour,ios,,,https://itunes.apple.com/app/carrefour-uae/id626805470
+bugcrowd,Majid Al Futtaim Retail,https://bugcrowd.com/carrefour,android,,,https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
+bugcrowd,Cash App,https://bugcrowd.com/cashapp,android,,,Cash App Mobile Application for Android
+bugcrowd,Cash App,https://bugcrowd.com/cashapp,ios,,,Cash App Mobile Application for iOS
+bugcrowd,Cash App,https://bugcrowd.com/cashapp,ios,,,https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
+bugcrowd,Cash App,https://bugcrowd.com/cashapp,android,,,https://play.google.com/store/apps/details?id=com.squareup.cash
+bugcrowd,Cisco Meraki,https://bugcrowd.com/ciscomeraki,ios,,,Cisco Meraki Dashboard Mobile Application (iOS and Android)
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,android,,,Credit Karma Android Mobile Application (International - UK+Canada)
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,android,,,Credit Karma Android Mobile Application (US)
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,ios,,,Credit Karma iOS Mobile Application (International - UK+Canada)
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,ios,,,Credit Karma iOS Mobile Application (US)
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,ios,,,https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,ios,,,https://apps.apple.com/us/app/credit-karma/id519817714
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,android,,,https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US
+bugcrowd,Credit Karma,https://bugcrowd.com/creditkarma,android,,,https://play.google.com/store/apps/details?id=com.creditkarma.mobile.international
+bugcrowd,CyberGhost,https://bugcrowd.com/cyberghost,android,,,CyberGhost Android application
+bugcrowd,CyberGhost,https://bugcrowd.com/cyberghost,ios,,,CyberGhost iOS application
+bugcrowd,CyberGhost,https://bugcrowd.com/cyberghost,ios,,,https://apps.apple.com/us/app/id583009522
+bugcrowd,CyberGhost,https://bugcrowd.com/cyberghost,android,,,https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,Dropbox Android App
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,Dropbox EMM iOS
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,Dropbox Paper Android App
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,Dropbox Paper iOS app
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,Dropbox Sign (formerly HelloSign) Android App
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,Dropbox iOS app
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,https://apps.apple.com/us/app/dropbox-emm/id1080074001
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,ios,,,https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+bugcrowd,Dropbox,https://bugcrowd.com/dropbox,android,,,https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+bugcrowd,Electroneum,https://bugcrowd.com/electroneum,android,,,Electroneum Android App
+bugcrowd,Electroneum,https://bugcrowd.com/electroneum,ios,,,Electroneum iOS App
+bugcrowd,Electroneum,https://bugcrowd.com/electroneum,ios,,,https://apps.apple.com/us/app/electroneum/id1270774992
+bugcrowd,Electroneum,https://bugcrowd.com/electroneum,android,,,https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
+bugcrowd,Etsy,https://bugcrowd.com/etsy,android,,,Etsy Mobile Application (Android)
+bugcrowd,Etsy,https://bugcrowd.com/etsy,ios,,,Etsy Mobile Application (iPhone)
+bugcrowd,Etsy,https://bugcrowd.com/etsy,android,,,https://www.etsy.com/mobile
+bugcrowd,Etsy,https://bugcrowd.com/etsy,ios,,,https://www.etsy.com/mobile
+bugcrowd,ExpressVPN,https://bugcrowd.com/expressvpn,android,,,ExpressVPN Android application
+bugcrowd,ExpressVPN,https://bugcrowd.com/expressvpn,ios,,,ExpressVPN iOS application
+bugcrowd,HubSpot,https://bugcrowd.com/hubspot,android,,,HubSpot Mobile Application: Android
+bugcrowd,HubSpot,https://bugcrowd.com/hubspot,ios,,,HubSpot Mobile Application: iOS
+bugcrowd,HubSpot,https://bugcrowd.com/hubspot,ios,,,https://apps.apple.com/us/app/hubspot/id1107711722
+bugcrowd,HubSpot,https://bugcrowd.com/hubspot,android,,,https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
+bugcrowd,Ibotta,https://bugcrowd.com/ibotta,ios,,,http://itunes.apple.com/us/app/ibotta/id559887125
+bugcrowd,Ibotta,https://bugcrowd.com/ibotta,android,,,http://market.android.com/details?id=com.ibotta.android
+bugcrowd,iFood: Bug Bounty Program,https://bugcrowd.com/ifood-og,ios,,,https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
+bugcrowd,iFood: Bug Bounty Program,https://bugcrowd.com/ifood-og,android,,,https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
+bugcrowd,iFood: Bug Bounty Program,https://bugcrowd.com/ifood-og,android,,,iFood Customer Android Application
+bugcrowd,iFood: Bug Bounty Program,https://bugcrowd.com/ifood-og,ios,,,iFood Customer iOS Application
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,Android Indeed Flex App
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,Indeed Connect for Employers
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,Indeed Job Search Android
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,Indeed Job Search iOS
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,https://apps.apple.com/us/app/indeed-job-search/id309735670
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,https://play.google.com/store/apps/details?id=com.indeed.resume
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,https://play.google.com/store/apps/details?id=com.syftapp.android
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,iOS Indeed Flex App
+bugcrowd,Indeed,https://bugcrowd.com/indeed,android,,,履歴書作成 (Universal Resume) Android
+bugcrowd,Indeed,https://bugcrowd.com/indeed,ios,,,履歴書作成 (Universal Resume) iOS
+bugcrowd,Intercom,https://bugcrowd.com/intercom,android,,,Android SDK
+bugcrowd,Intercom,https://bugcrowd.com/intercom,android,,,https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+bugcrowd,Intercom,https://bugcrowd.com/intercom,ios,,,https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+bugcrowd,Intercom,https://bugcrowd.com/intercom,ios,,,iOS SDK
+bugcrowd,iRobot,https://bugcrowd.com/irobot,ios,,,https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
+bugcrowd,iRobot,https://bugcrowd.com/irobot,android,,,https://play.google.com/store/apps/details?id=com.irobot.home
+bugcrowd,Jora,https://bugcrowd.com/jora,ios,,,https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+bugcrowd,Jora,https://bugcrowd.com/jora,android,,,https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
+bugcrowd,Just Eat Takeaway.com,https://bugcrowd.com/justeattakeaway,ios,,,https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
+bugcrowd,Just Eat Takeaway.com,https://bugcrowd.com/justeattakeaway,android,,,https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,android,,,Keeper for Android
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,ios,,,Keeper for iOS
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,android,,,KeeperChat for Android
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,ios,,,KeeperChat for iOS
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,ios,,,https://apps.apple.com/app/id1216446440
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,android,,,https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,android,,,https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
+bugcrowd,Keeper Security Public Bounty Program,https://bugcrowd.com/keepersecurity,ios,,,https://www.keepersecurity.com/download.html
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,android,,,LastPass Authenticator (Android)
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,ios,,,LastPass Authenticator (iOS)
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,android,,,LastPass Password Manager (Android)
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,ios,,,LastPass Password Manager (iOS)
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,ios,,,https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,ios,,,https://apps.apple.com/us/app/lastpass-password-manager/id324613447
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,android,,,https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
+bugcrowd,LastPass,https://bugcrowd.com/lastpass,android,,,https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
+bugcrowd,Linktree,https://bugcrowd.com/linktree-mbb-og,android,,,Linktree Android app
+bugcrowd,Linktree,https://bugcrowd.com/linktree-mbb-og,ios,,,Linktree iOS app
+bugcrowd,Linktree,https://bugcrowd.com/linktree-mbb-og,ios,,,https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+bugcrowd,Linktree,https://bugcrowd.com/linktree-mbb-og,android,,,https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+bugcrowd,Luno Bug Bounty Program,https://bugcrowd.com/luno-og,android,,,Luno Android Application
+bugcrowd,Luno Bug Bounty Program,https://bugcrowd.com/luno-og,ios,,,Luno iOS Application
+bugcrowd,Luno Bug Bounty Program,https://bugcrowd.com/luno-og,ios,,,https://apps.apple.com/app/bitx-wallet/id927362479
+bugcrowd,Luno Bug Bounty Program,https://bugcrowd.com/luno-og,android,,,https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
+bugcrowd,Majid Al Futtaim Lifestyle,https://bugcrowd.com/maffashion,android,,,THAT Concept Store Android
+bugcrowd,Majid Al Futtaim Lifestyle,https://bugcrowd.com/maffashion,ios,,,THAT Concept Store iOS
+bugcrowd,Majid Al Futtaim Lifestyle,https://bugcrowd.com/maffashion,ios,,,https://apps.apple.com/app/id1503045795
+bugcrowd,Majid Al Futtaim Lifestyle,https://bugcrowd.com/maffashion,android,,,https://play.google.com/store/apps/details?id=com.maf.thatandroid
+bugcrowd,Majid Al Futtaim Loyalty Program (Share Rewards),https://bugcrowd.com/majidalfuttaim-loyalty,android,,,Share Rewards Android App
+bugcrowd,Majid Al Futtaim Loyalty Program (Share Rewards),https://bugcrowd.com/majidalfuttaim-loyalty,ios,,,Share Rewards Programme iOS App
+bugcrowd,Majid Al Futtaim Loyalty Program (Share Rewards),https://bugcrowd.com/majidalfuttaim-loyalty,ios,,,https://apps.apple.com/us/app/share-rewards/id1465450657
+bugcrowd,Majid Al Futtaim Loyalty Program (Share Rewards),https://bugcrowd.com/majidalfuttaim-loyalty,android,,,https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,android,,,Monash Study Android app
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,ios,,,Monash Study iOS App
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,android,,,bSafe Android App
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,ios,,,bSafe iPhone App
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,ios,,,https://apps.apple.com/au/app/monash-bsafe/id1462241951
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,ios,,,https://apps.apple.com/us/app/monash-study/id1462126829
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,android,,,https://play.google.com/store/apps/details?id=com.scu.bsafe
+bugcrowd,Monash University Bug Bounty,https://bugcrowd.com/monash-mbb,android,,,https://play.google.com/store/apps/details?id=edu.monash.monashmobile
+bugcrowd,Moneytree KK,https://bugcrowd.com/moneytreekkog,ios,,,Moneytree iOS Mobile Application (production; see below)
+bugcrowd,Moneytree KK,https://bugcrowd.com/moneytreekkog,android,,,Moneytree staging Android Mobile Application (see below)
+bugcrowd,Moneytree KK,https://bugcrowd.com/moneytreekkog,ios,,,https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
+bugcrowd,Moneytree KK,https://bugcrowd.com/moneytreekkog,android,,,https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
+bugcrowd,Netflix,https://bugcrowd.com/netflix,android,,,Netflix Mobile Application for Android
+bugcrowd,Netflix,https://bugcrowd.com/netflix,ios,,,Netflix Mobile Application for iOS
+bugcrowd,Netflix,https://bugcrowd.com/netflix,ios,,,https://apps.apple.com/us/app/netflix/id363590051
+bugcrowd,Netflix,https://bugcrowd.com/netflix,android,,,https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US&gl=US
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,android,,,Insight Android App
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,ios,,,Insight iOS App
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,android,,,Nighthawk Android App
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,ios,,,Nighthawk iOS App
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,android,,,Orbi Android App 
+bugcrowd,NETGEAR Cash Rewards,https://bugcrowd.com/netgear,ios,,,Orbi iOS App 
+bugcrowd,Nubank Brasil Managed Bug Bounty Program,https://bugcrowd.com/nubank,android,,,Nubank Android: Playstore
+bugcrowd,Nubank Brasil Managed Bug Bounty Program,https://bugcrowd.com/nubank,ios,,,Nubank iOS App
+bugcrowd,Nubank Brasil Managed Bug Bounty Program,https://bugcrowd.com/nubank,ios,,,https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
+bugcrowd,Nubank Brasil Managed Bug Bounty Program,https://bugcrowd.com/nubank,android,,,https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
+bugcrowd,Okta,https://bugcrowd.com/okta,android,,,Okta Verify (Android)
+bugcrowd,Okta,https://bugcrowd.com/okta,ios,,,Okta Verify (iOS)
+bugcrowd,Okta,https://bugcrowd.com/okta,ios,,,https://apps.apple.com/us/app/okta-verify/id490179405
+bugcrowd,Okta,https://bugcrowd.com/okta,android,,,https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
+bugcrowd,OpenSea Managed Bug Bounty Program,https://bugcrowd.com/opensea,ios,,,https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+bugcrowd,OpenSea Managed Bug Bounty Program,https://bugcrowd.com/opensea,android,,,https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
+bugcrowd,OpenSea Managed Bug Bounty Program,https://bugcrowd.com/opensea,android,,,io.opensea - Android App
+bugcrowd,OpenSea Managed Bug Bounty Program,https://bugcrowd.com/opensea,ios,,,io.opensea - iOS App
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,Apex Football
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,Opera GX for Android
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,Opera Mini
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,Opera News
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,Opera for Android 
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,https://play.google.com/store/apps/details?id=com.opera.app.news
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,https://play.google.com/store/apps/details?id=com.opera.app.sports
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,https://play.google.com/store/apps/details?id=com.opera.browser
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,https://play.google.com/store/apps/details?id=com.opera.gx
+bugcrowd,Opera Public Bug Bounty,https://bugcrowd.com/opera,android,,,https://play.google.com/store/apps/details?id=com.opera.mini.native
+bugcrowd,Opsgenie,https://bugcrowd.com/opsgenie,android,,,Opsgenie (Android)
+bugcrowd,Opsgenie,https://bugcrowd.com/opsgenie,ios,,,Opsgenie (IoS)
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,android,,,Pinterest Android Mobile Application
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,android,,,Pinterest Lite Android Mobile Application
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,ios,,,Pinterest iOS Mobile Application
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,ios,,,https://apps.apple.com/us/app/pinterest/id429047995
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,android,,,https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
+bugcrowd,Pinterest,https://bugcrowd.com/pinterest,android,,,https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
+bugcrowd,Private Internet Access,https://bugcrowd.com/privateinternetaccess,android,,,PIA Android application
+bugcrowd,Private Internet Access,https://bugcrowd.com/privateinternetaccess,ios,,,PIA iOS application
+bugcrowd,Private Internet Access,https://bugcrowd.com/privateinternetaccess,ios,,,https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
+bugcrowd,Private Internet Access,https://bugcrowd.com/privateinternetaccess,android,,,https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
+bugcrowd,Quizlet,https://bugcrowd.com/quizlet,android,,,Android
+bugcrowd,Quizlet,https://bugcrowd.com/quizlet,ios,,,IoS
+bugcrowd,Rec Room Video Games,https://bugcrowd.com/recroom-og,android,,,Android
+bugcrowd,Rec Room Video Games,https://bugcrowd.com/recroom-og,ios,,,https://apps.apple.com/app/id1450306065
+bugcrowd,Rec Room Video Games,https://bugcrowd.com/recroom-og,android,,,https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
+bugcrowd,Rec Room Video Games,https://bugcrowd.com/recroom-og,ios,,,iOS
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,android,,,Electroneum Android App
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,ios,,,Electroneum iOS App
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,android,,,Staging Electroneum Android App
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,ios,,,https://apps.apple.com/us/app/electroneum/id1270774992
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,android,,,https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
+bugcrowd,The Security Team Rocks,https://bugcrowd.com/securityrocks,android,,,https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
+bugcrowd,SEEK,https://bugcrowd.com/seek,android,,,Certsy Mobile App for Android
+bugcrowd,SEEK,https://bugcrowd.com/seek,ios,,,Certsy Mobile App for iOS
+bugcrowd,SEEK,https://bugcrowd.com/seek,android,,,SEEK mobile app for Android
+bugcrowd,SEEK,https://bugcrowd.com/seek,ios,,,SEEK mobile app for iOS
+bugcrowd,SEEK,https://bugcrowd.com/seek,ios,,,https://apps.apple.com/au/app/certsy/id1617796159
+bugcrowd,SEEK,https://bugcrowd.com/seek,ios,,,https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
+bugcrowd,SEEK,https://bugcrowd.com/seek,android,,,https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
+bugcrowd,SEEK,https://bugcrowd.com/seek,android,,,https://play.google.com/store/apps/details?id=com.certsy.app
+bugcrowd,Skyscanner,https://bugcrowd.com/skyscanner,android,,,Skyscanner Android App
+bugcrowd,Skyscanner,https://bugcrowd.com/skyscanner,ios,,,Skyscanner iOS App
+bugcrowd,SoundCloud,https://bugcrowd.com/soundcloud,android,,,SoundCloud Android app
+bugcrowd,SoundCloud,https://bugcrowd.com/soundcloud,ios,,,SoundCloud iOS app
+bugcrowd,SoundCloud,https://bugcrowd.com/soundcloud,ios,,,https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
+bugcrowd,SoundCloud,https://bugcrowd.com/soundcloud,android,,,https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
+bugcrowd,Square,https://bugcrowd.com/square,android,,,Square Point of Sale Mobile Application for Android
+bugcrowd,Square,https://bugcrowd.com/square,ios,,,Square Point of Sale Mobile Application for iOS
+bugcrowd,Square,https://bugcrowd.com/square,ios,,,https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
+bugcrowd,Square,https://bugcrowd.com/square,android,,,https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
+bugcrowd,Stellantis,https://bugcrowd.com/stellantis,ios,,,https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
+bugcrowd,Stellantis,https://bugcrowd.com/stellantis,ios,,,https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
+bugcrowd,Stellantis,https://bugcrowd.com/stellantis,ios,,,https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
+bugcrowd,Stellantis,https://bugcrowd.com/stellantis,android,,,https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
+bugcrowd,Stellantis,https://bugcrowd.com/stellantis,android,,,https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,SyncUP DRIVE - Android
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,SyncUP DRIVE - iOS
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,SyncUP KIDS - Android
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,SyncUP KIDS - iOS
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,SyncUP TRACKER - Android
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,SyncUP TRACKER - iOS
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,T-Life - Android
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,T-Life - iOS
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,T-Mobile - Android
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,T-Mobile - iOS
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,https://apps.apple.com/us/app/syncup-drive/id1576574297
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,https://apps.apple.com/us/app/syncup-kids/id1503394062
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,https://apps.apple.com/us/app/syncup-tracker/id1526380335
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,ios,,,https://apps.apple.com/us/app/t-mobile/id561625752
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,https://play.google.com/store/apps/details?id=com.tmobile.drive
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,https://play.google.com/store/apps/details?id=com.tmobile.kids
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+bugcrowd,T-Mobile,https://bugcrowd.com/t-mobile,android,,,https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+bugcrowd,Tesla,https://bugcrowd.com/tesla,android,,,Official Tesla Android apps
+bugcrowd,Tesla,https://bugcrowd.com/tesla,ios,,,Official Tesla iOS apps
+bugcrowd,Tesla,https://bugcrowd.com/tesla,ios,,,https://apps.apple.com/us/app/tesla/id582007913
+bugcrowd,Tesla,https://bugcrowd.com/tesla,android,,,https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+bugcrowd,TIDAL,https://bugcrowd.com/tidal-bugbounty,android,,,Tidal Client for Android
+bugcrowd,TIDAL,https://bugcrowd.com/tidal-bugbounty,ios,,,Tidal Client for iOS
+bugcrowd,Trello,https://bugcrowd.com/trello,android,,,Trello Mobile App for Android
+bugcrowd,Trello,https://bugcrowd.com/trello,ios,,,Trello Mobile App for iOS
+bugcrowd,Tripadvisor,https://bugcrowd.com/tripadvisor-bb-og,android,,,TripAdvisor Android App
+bugcrowd,Tripadvisor,https://bugcrowd.com/tripadvisor-bb-og,ios,,,TripAdvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
+bugcrowd,Tripadvisor,https://bugcrowd.com/tripadvisor-bb-og,ios,,,TripAdvisor iOS App
+bugcrowd,Tripadvisor,https://bugcrowd.com/tripadvisor-bb-og,ios,,,https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
+bugcrowd,Twilio,https://bugcrowd.com/twilio,android,,,Authy Android App
+bugcrowd,Twilio,https://bugcrowd.com/twilio,ios,,,Authy iOS app
+bugcrowd,Twilio,https://bugcrowd.com/twilio,ios,,,https://authy.com/download/
+bugcrowd,Twilio,https://bugcrowd.com/twilio,android,,,https://authy.com/download/
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,android,,,MapMyFitness Android
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,ios,,,MapMyFitness iOS
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,android,,,UA Shop Android
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,ios,,,UA Shop iOS
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,ios,,,https://apps.apple.com/us/app/map-my-fitness-gps-workout/id298903147
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,ios,,,https://apps.apple.com/us/app/under-armour/id1092704571
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,android,,,https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
+bugcrowd,Under Armour AppSec,https://bugcrowd.com/underarmour,android,,,https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
+bugcrowd,Upwork,https://bugcrowd.com/upwork,android,,,Upwork - Android Application
+bugcrowd,Upwork,https://bugcrowd.com/upwork,ios,,,Upwork - iOS Application
+bugcrowd,USAA,https://bugcrowd.com/usaa,android,,,USAA Mobile Application for Android
+bugcrowd,USAA,https://bugcrowd.com/usaa,ios,,,USAA Mobile Application for iOS
+bugcrowd,USAA,https://bugcrowd.com/usaa,ios,,,https://apps.apple.com/us/app/usaa-mobile/id312325565
+bugcrowd,USAA,https://bugcrowd.com/usaa,android,,,https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
+bugcrowd,Viator,https://bugcrowd.com/viator,android,,,Android Viator Tours & Activities App
+bugcrowd,Viator,https://bugcrowd.com/viator,ios,,,https://apps.apple.com/us/app/viator-tours-activities/id434832826
+bugcrowd,Viator,https://bugcrowd.com/viator,android,,,https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
+bugcrowd,Viator,https://bugcrowd.com/viator,ios,,,iOS Viator Tours & Activities App
+bugcrowd,Majid Al Futtaim Entertainment,https://bugcrowd.com/vox,android,,,Vox Cinemas Android
+bugcrowd,Majid Al Futtaim Entertainment,https://bugcrowd.com/vox,ios,,,Vox Cinemas iOS
+bugcrowd,Western Union,https://bugcrowd.com/westernunion,android,,,Western Union Android app (link below)
+bugcrowd,Western Union,https://bugcrowd.com/westernunion,ios,,,Western Union iOS app (link below)
+bugcrowd,Western Union,https://bugcrowd.com/westernunion,ios,,,https://apps.apple.com/us/app/western-union-transfer-money/id424716908
+bugcrowd,Western Union,https://bugcrowd.com/westernunion,android,,,https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
+bugcrowd,Wise (ex-TransferWise),https://bugcrowd.com/wise,android,,,Latest version of Wise Android App
+bugcrowd,Wise (ex-TransferWise),https://bugcrowd.com/wise,ios,,,Latest version of Wise iOS App
+bugcrowd,Wise (ex-TransferWise),https://bugcrowd.com/wise,ios,,,https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+bugcrowd,Wise (ex-TransferWise),https://bugcrowd.com/wise,android,,,https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+bugcrowd,WOO Network: Bug Bounty Program,https://bugcrowd.com/woo-network,android,,,WOO X: Buy Crypto & BTC (Android)
+bugcrowd,WOO Network: Bug Bounty Program,https://bugcrowd.com/woo-network,ios,,,WOO X: Buy Crypto & BTC (IOS)
+bugcrowd,WOO Network: Bug Bounty Program,https://bugcrowd.com/woo-network,ios,,,https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
+bugcrowd,WOO Network: Bug Bounty Program,https://bugcrowd.com/woo-network,android,,,https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,android,,,Xfinity Android mobile app
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,android,,,Xfinity Home Android mobile app
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,ios,,,Xfinity Home iOS mobile app
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,ios,,,Xfinity iOS mobile app
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,ios,,,https://apps.apple.com/us/app/xfinity/id1178765645
+bugcrowd,Xfinity Home & xFi,https://bugcrowd.com/xfinity-home,android,,,https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
+hackerone,Temu,https://hackerone.com/temu,ios,,1641486558,
+hackerone,Temu,https://hackerone.com/temu,android,,com.einnovation.temu,
+hackerone,Bybit Fintech Ltd,https://hackerone.com/bybit_fintech,ios,,https://apps.apple.com/us/app/bybit-app/id1488296980,
+hackerone,Bybit Fintech Ltd,https://hackerone.com/bybit_fintech,android,,https://play.google.com/store/apps/details?id=com.bybit.app&hl=en,
+hackerone,Trip.com,https://hackerone.com/trip_com,android,,com.trip.android,High priority Scope
+hackerone,Trip.com,https://hackerone.com/trip_com,ios,,com.trip.ios,High priority Scope
+hackerone,Tools for Humanity,https://hackerone.com/toolsforhumanity,ios,,https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847,TFH-owned asset
+hackerone,Tools for Humanity,https://hackerone.com/toolsforhumanity,android,,https://play.google.com/store/apps/details?id=com.worldcoin,World App for Android. TFH-owned asset
+hackerone,NiceHash,https://hackerone.com/nicehash,android,,com.metallum.nicex,
+hackerone,NiceHash,https://hackerone.com/nicehash,ios,,com.nicehash.NiceX,
+hackerone,NiceHash,https://hackerone.com/nicehash,android,,com.nicehash.metallum,
+hackerone,NiceHash,https://hackerone.com/nicehash,ios,,com.nicehash.mobile,
+hackerone,Ring,https://hackerone.com/ring,ios,,1013961111,
+hackerone,Ring,https://hackerone.com/ring,ios,,1218902777,
+hackerone,Ring,https://hackerone.com/ring,ios,,926252661,
+hackerone,Ring,https://hackerone.com/ring,android,,com.immediasemi.android.blink,
+hackerone,Ring,https://hackerone.com/ring,android,,com.ring.neighborhoods,
+hackerone,Ring,https://hackerone.com/ring,android,,com.ringapp,
+hackerone,eufy Security,https://hackerone.com/eufy_security,ios,,com.anker.AnkerMake,The App for AnkerMake 3D Printer
+hackerone,eufy Security,https://hackerone.com/eufy_security,ios,,com.eufylife.EufyHome,The eufy Clean/eufy Home App for roboVac
+hackerone,eufy Security,https://hackerone.com/eufy_security,android,,com.oceanwing.FDMPrint,The Android App for AnkerMake 3D Printer
+hackerone,eufy Security,https://hackerone.com/eufy_security,android,,com.oceanwing.battery.cam,Most features shall use the eufy Security hardware devices.
+hackerone,eufy Security,https://hackerone.com/eufy_security,android,,com.oceanwing.care.cam,"This is the Android version App works for eufy baby monitor, mainly working offline."
+hackerone,eufy Security,https://hackerone.com/eufy_security,ios,,com.security.BatteryCam,The major features shall connect with the hardware devices of eufy Security.
+hackerone,eufy Security,https://hackerone.com/eufy_security,ios,,com.security.care,"This is the iOS version App works for eufy baby monitor, mainly working offline."
+hackerone,eero,https://hackerone.com/eero,ios,,1023499075,
+hackerone,eero,https://hackerone.com/eero,android,,com.eero.android,
+hackerone,Mozilla,https://hackerone.com/mozilla,android,,Mozilla VPN Clients,"** Critical Site**
+
+Mozilla VPN iOS, Android, Desktop Clients. 
+
+Note that Mozilla VPN subscriptions are only open in [these countries](https://support.mozilla.org/en-US/kb/mozilla-vpn-countries-available-subscribe)."
+hackerone,OKG,https://hackerone.com/okg,android,,OKX Android APK,https://play.google.com/store/apps/details?id=com.okinc.okex.gp
+hackerone,OKG,https://hackerone.com/okg,ios,,OKX iOS APP,https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470
+hackerone,OKG,https://hackerone.com/okg,android,,Okcoin Android APK,https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
+hackerone,OKG,https://hackerone.com/okg,ios,,Okcoin iOS App,https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470
+hackerone,Superbet,https://hackerone.com/superbet,android,,ro.superbet.games,"Make sure you change your google play country to Romania so you can access the app.
+https://play.google.com/store/apps/details?id=ro.superbet.games&hl=ro&gl=RO"
+hackerone,Superbet,https://hackerone.com/superbet,android,,ro.superbet.sport,"Make sure you set the location to your google play account to Romania so you can access the app
+https://play.google.com/store/apps/details?id=ro.superbet.sport&hl=ro&gl=RO"
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,ios,,1413099571,Caesars Sportsbook
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,ios,,1505343389,Caesars Sportsbook Wyoming
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,ios,,1526689858,Caesars Sportsbook Nevada
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,ios,,1615039001,Built and maintained by 3rd party. We are unable to remediate vulnerabilities. 
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,ios,,6446176419,
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,android,,com.awi.cz.whrp,Caesars Sportsbook Nevada
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,android,,com.awi.whrp,William Hill Nevada Sportsbook
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,android,,com.caesarsdigital.igaming.caesarspalaceonline,
+hackerone,Caesars Digital ,https://hackerone.com/caesars-digital,android,,com.williamhill.us.nj.sports,Caesars Sportsbook
+hackerone,Kolesa Group,https://hackerone.com/kolesagroup,ios,,563291345,Any other subdomains under this domain are not in scope and ineligible for submission
+hackerone,Kolesa Group,https://hackerone.com/kolesagroup,ios,,965180355,
+hackerone,Boozt Fashion AB,https://hackerone.com/boozt,android,,com.boozt,
+hackerone,Boozt Fashion AB,https://hackerone.com/boozt,ios,,com.boozt.app,
+hackerone,Boozt Fashion AB,https://hackerone.com/boozt,ios,,com.boozt.booztlet,
+hackerone,Boozt Fashion AB,https://hackerone.com/boozt,android,,com.booztlet,
+hackerone,ZeroBounce,https://hackerone.com/zerobounce,ios,,1671793296,
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,1291586307,https://apps.apple.com/us/app/amazon-key/id1291586307
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,1324809509,https://apps.apple.com/us/app/id1324809509
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,1528364633,https://apps.apple.com/us/app/luna-controller/id1528364633
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,302584613,https://apps.apple.com/us/app/id302584613
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,621574163,https://apps.apple.com/us/app/amazon-photos/id621574163
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,944011620,https://apps.apple.com/us/app/id944011620
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,ios,,947984433,https://apps.apple.com/us/app/id947984433
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.clouddrive.photos,https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.cosmos,https://play.google.com/store/apps/details?id=com.amazon.cosmos
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.dee.app,https://play.google.com/store/apps/details?id=com.amazon.dee.app
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.kindle,https://play.google.com/store/apps/details?id=com.amazon.kindle
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.storm.lightning.client.aosp,https://play.google.com/store/apps/details?id=com.amazon.storm.lightning.client.aosp
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.tahoe.freetime,https://play.google.com/store/apps/details?id=com.amazon.tahoe.freetime
+hackerone,Amazon Vulnerability Research Program - Devices,https://hackerone.com/amazonvrp-devices,android,,com.amazon.tails,https://play.google.com/store/apps/details?id=com.amazon.tails
+hackerone,REI BBP,https://hackerone.com/rei_bbp,android,,Android & iOS App for REI Customers,"To download the app, please visit https://www.rei.com/mobile
+
+What it does?
+REI customers can place orders through the app on their smartphone"
+hackerone,Coinhako,https://hackerone.com/coinhako,android,,com.coinhako,Get the app here: https://play.google.com/store/apps/details?id=com.coinhako
+hackerone,Coinhako,https://hackerone.com/coinhako,ios,,com.coinhako.app,Get the app here: https://apps.apple.com/app/coinhako-bitcoin-wallet-asia/id1137855704
+hackerone,MetaMask,https://hackerone.com/metamask,android,,io.metamask,"Installation Link: https://metamask.io/download/
+
+Supporting documentation
+- https://docs.metamask.io/guide/
+- https://github.com/MetaMask/metamask-mobile"
+hackerone,MetaMask,https://hackerone.com/metamask,ios,,io.metamask.Metamask,"Installation Link: https://metamask.io/download/
+
+Supporting Documentation
+- https://docs.metamask.io/guide/
+- https://github.com/MetaMask/metamask-mobile"
+hackerone,Deribit,https://hackerone.com/deribit,ios,,1293674041,
+hackerone,Deribit,https://hackerone.com/deribit,android,,com.deribit,
+hackerone,Wickr,https://hackerone.com/wickr,android,,Wickr Me Android,
+hackerone,Wickr,https://hackerone.com/wickr,ios,,Wickr Me iOS,
+hackerone,Wickr,https://hackerone.com/wickr,android,,Wickr Pro Android,
+hackerone,Wickr,https://hackerone.com/wickr,ios,,Wickr Pro iOS,
+hackerone,MoonPay ,https://hackerone.com/moonpay,ios,,https://apps.apple.com/app/id1635031432,
+hackerone,MoonPay ,https://hackerone.com/moonpay,android,,https://play.google.com/store/apps/details?id=com.moonpay,
+hackerone,KOHO,https://hackerone.com/koho,ios,,1091010942,iOS Mobile app
+hackerone,KOHO,https://hackerone.com/koho,android,,ca.koho,Android Mobile app
+hackerone,Palta,https://hackerone.com/palta,ios,,1436732536,
+hackerone,Palta,https://hackerone.com/palta,ios,,1467720176,
+hackerone,Palta,https://hackerone.com/palta,ios,,1552207792,
+hackerone,Palta,https://hackerone.com/palta,android,,coach.zing.fitness,
+hackerone,Palta,https://hackerone.com/palta,android,,com.lensa.app,
+hackerone,Palta,https://hackerone.com/palta,android,,life.simple,
+hackerone,Tide,https://hackerone.com/tide,ios,,co.tide,
+hackerone,Tide,https://hackerone.com/tide,android,,co.tide.tideplatform.in,
+hackerone,Tide,https://hackerone.com/tide,android,,com.tideplatform.banking,
+hackerone,Trendyol,https://hackerone.com/trendyol,ios,,1127881507,Dolap IOS Application
+hackerone,Trendyol,https://hackerone.com/trendyol,ios,,524362642,Trendyol IOS Application
+hackerone,Trendyol,https://hackerone.com/trendyol,ios,,6467634418,Trendyol Milla IOS Application
+hackerone,Trendyol,https://hackerone.com/trendyol,android,,com.dolap.android,
+hackerone,Trendyol,https://hackerone.com/trendyol,android,,com.trendyol.milla.android,Trendyol Milla Android Application
+hackerone,Trendyol,https://hackerone.com/trendyol,android,,trendyol.com,
+hackerone,Clubhouse,https://hackerone.com/clubhouse,ios,,1503133294,iOS application
+hackerone,Clubhouse,https://hackerone.com/clubhouse,android,,com.clubhouse.android,Android Application
+hackerone,HYPR,https://hackerone.com/hypr-corp,ios,,com.hypr.one,
+hackerone,HYPR,https://hackerone.com/hypr-corp,android,,com.hypr.one,
+hackerone,Stripe,https://hackerone.com/stripe,ios,,978516833,Stripe iOS Dashboard App
+hackerone,Stripe,https://hackerone.com/stripe,ios,,Stripe Connect,"Payments for platforms and marketplaces
+
+Docs: https://stripe.com/docs/connect
+
+Sample Connect applications:
+* [stripe/stripe-demo-connect-kavholm-marketplace](https://github.com/stripe/stripe-demo-connect-kavholm-marketplace): Demo app for Global Marketplace using Stripe Connect
+* [stripe/stripe-connect-rocketrides](https://github.com/stripe/stripe-connect-rocketrides): Sample on-demand platform built on Stripe: Connect onboarding for pilots, iOS app for passengers to request rides."
+hackerone,Stripe,https://hackerone.com/stripe,android,,Stripe Payments,"Online payments
+
+Docs: https://stripe.com/docs/payments
+
+Sample Payments application: [stripe-samples/accept-a-card-payment](https://github.com/stripe-samples/accept-a-card-payment): Learn how to accept a basic card payment on web, iOS, Android"
+hackerone,Stripe,https://hackerone.com/stripe,android,,com.stripe.android.dashboard,
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshcaller-iOS-App,"Freshcaller iOS app can be downloaded from https://apps.apple.com/us/app/freshcaller/id1424866045
+"
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshchat-iOS-App,"Freshchat iOS app can be downloaded from 
+https://apps.apple.com/us/app/freshchat/id1273666080"
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshdesk-iOS-App,Freshdesk iOS app can be downloaded from https://apps.apple.com/us/app/freshdesk/id849713306
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshsales-iOS-App,"Freshsales iOS app can be downloaded from https://apps.apple.com/us/app/freshsales/id1073125057
+"
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshservice-Intune-iOS-App,"Freshservice Intune iOS app can be downloaded from https://apps.apple.com/us/app/freshservice-for-intune/id6475669802
+"
+hackerone,Freshworks ,https://hackerone.com/freshworks,ios,,Freshservice-iOS-App,Freshservice iOS app can be downloaded from https://apps.apple.com/us/app/freshservice/id891265220
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshchat.agent.android,"Freshchat Android app can be downloaded from https://play.google.com/store/apps/details?id=com.freshchat.agent.android
+"
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshdesk.freshsales.mobile,Freshsales Android app can be downloaded from https://play.google.com/store/apps/details?id=com.freshdesk.helpdesk
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshdesk.helpdesk,Freshdesk Android app can be downloaded from https://play.google.com/store/apps/details?id=com.freshdesk.helpdesk
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshservice.helpdesk,Freshservice Android App can be downloaded from https://play.google.com/store/apps/details?id=com.freshservice.helpdesk
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshservice.helpdesk.intune,Freshservice Intune Android app can be downloaded from https://play.google.com/store/apps/details?id=com.freshservice.helpdesk.intune
+hackerone,Freshworks ,https://hackerone.com/freshworks,android,,com.freshworks.freshcaller,Freshcaller Android app can be downloaded from https://play.google.com/store/apps/details?id=com.freshworks.freshcaller
+hackerone,Grindr,https://hackerone.com/grindr,ios,,319881193,"Vulnerabilities that require physical, jailbroken, or device root OS access of another user's device will typically be considered out-of-scope."
+hackerone,Grindr,https://hackerone.com/grindr,android,,com.grindrapp.android,"Vulnerabilities that require physical, jailbroken, or device root OS access of another user's device will typically be considered out-of-scope."
+hackerone,8x8 Bounty,https://hackerone.com/8x8-bounty,ios,,8x8-work,https://apps.apple.com/us/app/8x8-work/id348177448
+hackerone,8x8 Bounty,https://hackerone.com/8x8-bounty,android,,org.vom8x8.sipua,8x8 Work - https://play.google.com/store/apps/details?id=org.vom8x8.sipua
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,, Fortress.HongKong.IOS,"This is our MoneyBack Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/fortress/id1133110850"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,, Watsons.TaiWan.Android,"This is our Watsons TaiWan Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=tw.com.watsons.app"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Fortress.HongKong.Android,"This is our Fortress Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=fortress.fortressapp"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,ICIParisXL.App.Android,"This is our ICI Paris XL (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link:
+https://play.google.com/store/apps/details?id=com.iciparisxl.app"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,ICIParisXL.App.IOS,"This is our ICI Paris XL (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link:
+https://apps.apple.com/nl/app/ici-paris-xl-beauty/id1061895392
+
+"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Kruidvat.Belgium.Android,"This is our Dutch online retail mobile app for Belgium customers. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://play.google.com/store/apps/details?id=be.kruidvat.voordeelkaart"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Kruidvat.Belgium.iOS,"This is our Dutch online retail mobile app for Belgium customers. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://apps.apple.com/be/app/kruidvat/id1151434781"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Kruidvat.Netherlands.Android,"This is our Dutch online retail mobile app. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://play.google.com/store/apps/details?id=nl.kruidvat.voordeelkaart"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Kruidvat.Netherlands.iOS,"This is our Dutch online retail mobile app. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://itunes.apple.com/nl/app/kruidvat-mobiele-app/id531631058"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Marionnaud.Austria.Android,"This is our Marionnaud (Android) app in Austria. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=at.marionnaud.customer"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Marionnaud.Austria.iOS,"This is our Marionnaud (iOS) app in Austria. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/gb/app/marionnaud-%C3%B6sterreich/id1114541888
+"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Marionnaud.France.Android,"This is our Marionnaud (Android) app in France. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=com.marionnaud.marionnaudfrance"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Marionnaud.France.iOS,"This is our Marionnaud (iOS) app in France. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/fr/app/marionnaud-beaut%C3%A9-soins/id1127368763"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Marionnaud.Italy.Android,"This is our Marionnaud (Android) app in Italy. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=it.marionnaud.customer"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Marionnaud.Italy.iOS,"This is our Marionnaud (iOS) app in Italy. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/it/app/marionnaud/id883671274"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Marionnaud.Romania.Android,"This is our Marionnaud (Android) app in Romania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=ro.marionnaud.customer"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Marionnaud.Romania.iOS,"This is our Marionnaud (iOS) app in Romania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/ro/app/marionnaud-romania/id1021924260"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Marionnaud.Switzerland.Android,"This is our Marionnaud (Android) app in Switzerland. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=ch.marionnaud.customer"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Marionnaud.Switzerland.iOS,"This is our Marionnaud (iOS) app in Switzerland. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/ch/app/id1486316902"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,MoneyBack.HongKong.Android,"This is our MoneyBack Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=com.asw.moneyback"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,MoneyBack.HongKong.iOS,"This is our MoneyBack Mobile (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/moneyback/id1230818544"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,PNS.HongKong.Android,"This is our PNS Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.parknshop.parknshopapp"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,PNS.HongKong.iOS,"This is our PNS Mobile (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/parknshop/id840837558"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Superdrug.App.Android,"This is our Superdrug Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link: https://play.google.com/store/apps/details?id=superdrug.com.beautycard&hl=en"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Superdrug.Healthera.App.Android,"This is a third-party hosted Superdrug service. Please take extra caution testing this asset. Avoid making too many requests, and ensure that no bookings / reservations are made in production systems. Where possible, always use a @wearehackerone.com email address.
+
+App link: https://play.google.com/store/apps/details?id=com.healthera.healtheraapp.superdrug"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,ThePerfumeShop.App.Android,"This is our The Perfume Shop (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.theperfumeshop.customer"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,ThePerfumeShop.App.iOS,"This is our The Perfume Shop (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+Appstore Link
+https://apps.apple.com/gb/app/the-perfume-shop/id1202206665"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.HongKong.Android,"This is our Watsons HongKong Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.ndn.android.watsons"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.HongKong.IOS,"This is our Watsons HongKong Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E9%A6%99%E6%B8%AF/id479512803"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Indonesia.Android,"This is our Watsons Indonesia Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.id.android"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Indonesia.IOS,"This is our Watsons Indonesia Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/watsons-id/id1184851346"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Malaysia.Android,"This is our Watsons Malaysia Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.mcommerce"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Malaysia.IOS,"This is our Watsons Malaysia Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-my/id1112796292"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Philippines.Android,"This is our Watsons Philippines Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.ph"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Philippines.IOS,"This is our Watsons Philippines Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-philippines/id1438203234"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Singapore.Android,"This is our Watsons Singapore Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.sg.android"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Singapore.IOS,"This is our Watsons Singapore Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-sg-the-official-app/id449412168"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.TaiWan.IOS,"This is our Watsons TaiWan Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E5%8F%B0%E7%81%A3/id477968775"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Thailand.Android,"This is our Watsons Thailand Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.thailand"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Thailand.IOS,"This is our Watsons Thailand Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-th/id619935224"
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,android,,Watsons.Turkey.Android,
+hackerone,A.S. Watson Group ,https://hackerone.com/watson_group,ios,,Watsons.Turkey.iOS,
+hackerone,TikTok,https://hackerone.com/tiktok,ios,,1235601864,[iOS Store Download](https://apps.apple.com/sg/app/tiktok-%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E9%80%99%E8%A3%A1/id1235601864)
+hackerone,TikTok,https://hackerone.com/tiktok,ios,,1591003012,"TikTok Shop Seller Center
+[iOS Store Download][link].
+
+[link]: https://apps.apple.com/my/app/tiktok-shop-seller-center/id1591003012"
+hackerone,TikTok,https://hackerone.com/tiktok,ios,,641062073,"[iOS Store Download][link].
+
+[link]: https://apps.apple.com/be/app/tiktok-now/id1641062073"
+hackerone,TikTok,https://hackerone.com/tiktok,ios,,835599320,[iOS Store Download](https://apps.apple.com/us/app/tiktok-make-your-day/id835599320)
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.ss.android.ugc.now,"[Play Store Download][link].
+
+[link]: https://play.google.com/store/apps/details?id=com.ss.android.ugc.now"
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.ss.android.ugc.trill,[Play Store Download](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill&hl=en_US)
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.tiktok.tv,TikTok TV app
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.tiktokshop.seller,"TikTok Shop Seller Center
+[Play Store Download][link].
+
+[link]: https://play.google.com/store/apps/details?id=com.tiktokshop.seller&hl=en_US&gl=US"
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.zhiliao.musically.livewallpaper,
+hackerone,TikTok,https://hackerone.com/tiktok,android,,com.zhiliaoapp.musically,[Play Store Download](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US)
+hackerone,Miro,https://hackerone.com/miro,ios,,1180074773,https://apps.apple.com/us/app/miro-collaborative-whiteboard/id1180074773
+hackerone,Miro,https://hackerone.com/miro,android,,com.realtimeboard,https://play.google.com/store/apps/details?id=com.realtimeboard
+hackerone,Chime,https://hackerone.com/chime,android,,Chime Android App (Beta),"https://app.bitrise.io/app/5bec038cb1e318cd/build/53f4371a-2944-4724-a550-fe28ce12b310/artifact/fefb8365737c2830/p/e0d7a0d7d6d1d28d13ae19e6df4bd563
+"
+hackerone,Chime,https://hackerone.com/chime,ios,,Chime IOS App (Beta),"https://app.bitrise.io/app/5bec038cb1e318cd/build/164dfc03-f653-49aa-bfa6-f38d1fc449d7/artifact/c7c7c6f5eff4b8ae/p/c615268fbe4ae89f2c07a0a2afc1ae99
+"
+hackerone,Chime,https://hackerone.com/chime,ios,,com.1debit.ChimeProdApp,"Production Environment iOS Chime App:
+https://apps.apple.com/us/app/chime-mobile-banking/id836215269"
+hackerone,Chime,https://hackerone.com/chime,android,,com.onedebit.chime,"Production Environment Android Chime App:
+https://play.google.com/store/apps/details?id=com.onedebit.chime"
+hackerone,Figma,https://hackerone.com/figma,android,,Figma iOS and Android apps,
+hackerone,Amazon Vulnerability Research Program,https://hackerone.com/amazonvrp,ios,,297606951,
+hackerone,Amazon Vulnerability Research Program,https://hackerone.com/amazonvrp,android,,com.amazon.mShop.android.shopping,
+hackerone,SHEIN,https://hackerone.com/shein,ios,,1080248000,"[ROMWE - Fashion Store](https://apps.apple.com/app/romwe-fashion-store/id1080248000)  on the Apple App Store 
+"
+hackerone,SHEIN,https://hackerone.com/shein,ios,,878577184,"[SHEIN-Fashion Shopping Online](https://apps.apple.com/app/shein-fashion-shopping-online/id878577184)  on the Apple App Store 
+"
+hackerone,SHEIN,https://hackerone.com/shein,android,,com.romwe,"[ROMWE](https://play.google.com/store/apps/details?id=com.romwe) on the Google Play Store
+"
+hackerone,SHEIN,https://hackerone.com/shein,android,,com.zzkko,"[SHEIN-Fashion Shopping Online](https://play.google.com/store/apps/details?id=com.zzkko) on the Google Play Store
+
+"
+hackerone,PlayStation,https://hackerone.com/playstation,ios,,410896080,"iOS PlayStation App
+https://apps.apple.com/app/apple-store/id410896080?pt=104940801&ct=pdcexploreapp&mt=8"
+hackerone,PlayStation,https://hackerone.com/playstation,android,,com.scee.psxandroid,"Android PlayStation App
+https://play.google.com/store/apps/details?id=com.scee.psxandroid&utm_source=pdcexploreapp"
+hackerone,Truecaller ,https://hackerone.com/truecaller,ios,,448142450,iOS Application ID
+hackerone,Truecaller ,https://hackerone.com/truecaller,android,,com.truecaller,
+hackerone,Evernote,https://hackerone.com/evernote,ios,,281796108,
+hackerone,Evernote,https://hackerone.com/evernote,android,,com.evernote,
+hackerone,Exodus,https://hackerone.com/exodus,ios,,exodus-movement.exodus,"App Store: [Exodus Crypto Wallet](https://apps.apple.com/us/app/exodus-crypto-wallet/id1414384820)
+
+This is the official Exodus Crypto Wallet, which itself stores and manages a user's cryptocurrency.  This has much higher Environmental Score and potential attack vectors.
+
+The most critical thing we want to help ensure is that our users are never vulnerable to getting their money/wallet stolen, and that users can always use their wallet to view/manage/exchange crypto.
+
+**NOTE:** Please make sure to read our Program Policy, as certain attack vectors are considered out of scope (eg: OS-related attacks).
+
+"
+hackerone,Exodus,https://hackerone.com/exodus,android,,exodusmovement.exodus,"Google Play Store: [Exodus Crypto Wallet](https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en)
+
+This is the official Exodus Crypto Wallet, which itself stores and manages a user's cryptocurrency.  This has much higher Environmental Score and potential attack vectors.
+
+The most critical thing we want to help ensure is that our users are never vulnerable to getting their money/wallet stolen, and that users can always use their wallet to view/manage/exchange crypto.
+
+**NOTE:** Please make sure to read our Program Policy, as certain attack vectors are considered out of scope (eg: OS-related attacks).
+
+"
+hackerone,Cornershop,https://hackerone.com/cornershop,android,,cornershopapp.android,Download the app here: https://play.google.com/store/apps/details?id=com.cornershopapp.android
+hackerone,Cornershop,https://hackerone.com/cornershop,ios,,io.cornershop.ios,Download the app here: https://apps.apple.com/us/app/cornershop/id995060131
+hackerone,CoinSpot,https://hackerone.com/coinspot,ios,,1541949985,
+hackerone,CoinSpot,https://hackerone.com/coinspot,android,,com.coinspot.app,
+hackerone,LY Corporation,https://hackerone.com/line,ios,,443904275,"**_Tier A_ Asset** 
+
+[Apple App Store](https://apps.apple.com/jp/app/line/id443904275)
+
+Please make sure you are testing the latest version. Only the latest version is considered in scope."
+hackerone,LY Corporation,https://hackerone.com/line,ios,,539883307,"**_Tier A_ Asset** 
+
+macOS: [Apple Mac App Store](https://apps.apple.com/id/app/line/id539883307)
+
+Please make sure you are testing the latest version. Only the latest version is considered in scope."
+hackerone,LY Corporation,https://hackerone.com/line,android,,com.linecorp.linelite,"**_Tier A_ Asset** 
+
+LINE Lite on the [Google Play Store](https://play.google.com/store/apps/details?id=com.linecorp.linelite)"
+hackerone,LY Corporation,https://hackerone.com/line,android,,jp.naver.line.android,"**_Tier A_ Asset** 
+
+[Google Play Store](https://play.google.com/store/apps/details?id=jp.naver.line.android)
+
+Please make sure you are testing the latest version. Only the latest version is considered in scope."
+hackerone,Lark Technologies,https://hackerone.com/lark_technologies,ios,,1452166623,"**Tier 1** Asset
+
+Only the latest version of the application will be in scope. 
+
+[Download from the Apple App Store here](https://apps.apple.com/app/lark-collaboration-tool/id1452166623)"
+hackerone,Via,https://hackerone.com/ridewithvia,android,, com.citymapper.app.release,
+hackerone,Via,https://hackerone.com/ridewithvia,ios,,469463298,
+hackerone,Via,https://hackerone.com/ridewithvia,ios,,657777015,
+hackerone,Via,https://hackerone.com/ridewithvia,android,,via.rider,
+hackerone,Xiaomi,https://hackerone.com/xiaomi,android,,MIUI OS for Xiaomi Phone,"MIUI is Xiaomi phone operation system (OS), custimized on stock android.
+the scope inculdes the pre-installed apps with Xiaomi certification signed."
+hackerone,Xiaomi,https://hackerone.com/xiaomi,android,,Other APK Assets,"com.miui.screenrecorder
+com.android.providers.telephony
+com.android.dynsystem
+com.miui.powerkeeper
+com.xiaomi.miplay_client
+com.milink.service
+com.xiaomi.mi_connect_service
+com.android.updater
+com.miui.securityadd/com.miui.gallery/com.android.mms.service/com.miui.msa.global/com.android.browser/com.miui.videoplayer/com.android.soundrecorder/com.miui.backup/com.miui.notification/com.android.certinstaller/com.miui.huanji/com.miui.hybrid/com.miui.vsimcore/com.miui.securitycore/com.mi.health/com.xiaomi.simactivate.service/com.miui.phrase/com.miui.player/com.miui.miservice/com.android.provision/com.miui.system/com.miui.global.packageinstaller/com.miui.compass/com.miui.cit/com.miui.android.fashiongallery/com.miui.bugreport/com.android.fileexplorer/com.android.camera/com.xiaomi.glgm/com.xiaomi.xmsf/com.miui.mishare.connectivity/com.miui.freeform/com.xiaomi.finddevice/com.mi.global.bbs/com.xiaomi.joyose/com.mi.android.globalFileexplorer/com.miui.notes/com.miui.wmsvc/com.xiaomi.midrop/com.miui.touchassistant/com.miui.miwallpaper/com.xiaomi.bluetooth/com.miui.cleanmaster/com.miui.analytics/com.android.settings/com.xiaomi.scanner/com.android.phone/com.android.deskclock/com.android.systemui/com.xiaomi.discover/com.android.thememanager/com.android.bluetooth/com.miui.face/com.miui.home
+"
+hackerone,Coda,https://hackerone.com/coda_bbp,ios,,io.coda,"Link: https://apps.apple.com/us/app/coda/id1397968110
+
+Coda's native apps make heavy use of the same endpoints and UX that's used by the mobile website. That being said, there are some differences and we invite security reports pertaining to our iOS and Android apps. Please be sure to follow the same guidelines for setting up an account in our mobile apps as on https://coda.io."
+hackerone,Coda,https://hackerone.com/coda_bbp,android,,io.coda.codaapp,"Link: https://play.google.com/store/apps/details?id=io.coda.codaapp
+
+Coda's native apps make heavy use of the same endpoints and UX that's used by the mobile website. That being said, there are some differences and we invite security reports pertaining to our iOS and Android apps. Please be sure to follow the same guidelines for setting up an account in our mobile apps as on https://coda.io."
+hackerone,Reddit,https://hackerone.com/reddit,ios,,1064216828,"Official iOS app, DoS issues generally not eligible for bounty"
+hackerone,Reddit,https://hackerone.com/reddit,android,,com.reddit.frontpage,"Official Android app, DoS issues generally not eligible for bounty."
+hackerone,Instacart,https://hackerone.com/instacart,ios,,545599256,"Instacart’s iOS application for online grocery delivery.
+package name: com.instacart"
+hackerone,Instacart,https://hackerone.com/instacart,android,,Android & iOS App for Instacart Shoppers,"To download the shoppers app please visit https://shoppers.instacart.com/apps and enter your phone number to get the download link
+What it does?
+Shoppers receive orders through the app on their smartphone and then they shop and deliver groceries to the customers
+"
+hackerone,Instacart,https://hackerone.com/instacart,android,,com.instacart.client,Instacart’s Android application for online grocery delivery.
+hackerone,Mattermost,https://hackerone.com/mattermost,ios,,978516833,"Latest IPA can be downloaded from here:
+https://github.com/mattermost/mattermost-mobile/releases"
+hackerone,Mattermost,https://hackerone.com/mattermost,android,,com.mattermost.rn,"The latest APK can be downloaded from here:
+https://github.com/mattermost/mattermost-mobile/releases
+
+The public beta release containing the latest features is also in scope and can be accessed on the Play Store under the identifier [com.mattermost.rnbeta](https://play.google.com/store/apps/details?id=com.mattermost.rnbeta)"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,1245772818,https://apps.apple.com/us/app/vrbo-vacation-rentals/id1245772818
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,284803487,"This is the travelocity iOS app
+
+https://apps.apple.com/us/app/travelocity-hotels-flights/id284803487"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,284971959,https://apps.apple.com/us/app/hotels-com-book-your-hotel/id284971959
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,403546234,"This is the Orbitz iOS app 
+
+https://apps.apple.com/us/app/orbitz-hotels-flights/id403546234"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,427916203,"Expedia iOS App
+
+https://apps.apple.com/us/app/expedia-hotels-flights-car/id427916203"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,483394780,"This is the ebookers iOS app 
+
+https://apps.apple.com/us/app/ebookers-hotels-flights/id483394780"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,531549799,"This is the wotif iOS app
+
+https://apps.apple.com/au/app/wotif-hotels-flights/id531549799"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,566635048,[Hotwire iOS App](https://apps.apple.com/us/app/hotwire-last-minute-hotels/id566635048)
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,ios,,880759727,"This is the cheaptickets iOS app
+
+https://apps.apple.com/us/app/cheaptickets-hotels-flights/id880759727"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.cheaptickets,"This is the cheaptickets Android app 
+
+https://play.google.com/store/apps/details?id=com.cheaptickets"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.ebookers,"This is the ebookers Android app 
+
+https://play.google.com/store/apps/details?id=com.ebookers"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.expedia.bookings,"Expedia Android App
+
+https://play.google.com/store/apps/details?id=com.expedia.bookings"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.hcom.android,[Hotels Android App](https://play.google.com/store/apps/details?id=com.hcom.android) 
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.hotwire.hotels,[Hotwire Android App](https://play.google.com/store/apps/details?id=com.hotwire.hotels) 
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.orbitz,"This is the Orbitz Android app 
+
+https://play.google.com/store/apps/details?id=com.orbitz"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.travelocity.android,"This is the travelocity Android app
+
+https://play.google.com/store/apps/details?id=com.travelocity.android"
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.vrbo.android,[VRBO Android App](https://play.google.com/store/apps/details?id=com.vrbo.android) 
+hackerone,Expedia Group Bug Bounty,https://hackerone.com/expediagroup_bbp,android,,com.wotif.android,"This is the wotif Android app 
+
+https://play.google.com/store/apps/details?id=com.wotif.android"
+hackerone,Front,https://hackerone.com/fronthq,ios,,com.frontapp.mobile,https://apps.apple.com/us/app/frontapp/id983808769
+hackerone,Front,https://hackerone.com/fronthq,android,,com.frontapp.mobile,https://play.google.com/store/apps/details?id=com.frontapp.mobile
+hackerone,Pillar Project Worldwide Limited,https://hackerone.com/pillarproject,ios,,com.pillarproject.wallet,
+hackerone,Pillar Project Worldwide Limited,https://hackerone.com/pillarproject,android,,com.pillarproject.wallet,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,ios,,com.etoro.openbook,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,android,,com.etoro.openbook,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,ios,,com.etoro.wallet,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,android,,com.etoro.wallet,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,android,,io.getdelta.android,
+hackerone,eToro BBP,https://hackerone.com/etoro_bbp,ios,,io.getdelta.ios,
+hackerone,FanDuel,https://hackerone.com/fanduel,ios,,599664106,
+hackerone,FanDuel,https://hackerone.com/fanduel,android,,com.fanduel.android.self,
+hackerone,Credit Karma,https://hackerone.com/creditkarma,ios,,com.creditkarma.mobile,
+hackerone,Credit Karma,https://hackerone.com/creditkarma,android,,com.creditkarma.mobile,
+hackerone,Credit Karma,https://hackerone.com/creditkarma,ios,,com.creditkarma.mobile.international,
+hackerone,Credit Karma,https://hackerone.com/creditkarma,android,,com.creditkarma.mobile.international,
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,android,,Mercado Pago Apps Endpoints,The **endpoints in scope** at this point in time are **just only those consumed by the Mercado Pago Mobile Apps** (Android & iOS). Domains and subdomains consumed through a webview/web browser inside app are out of scope. Third party sites also are out of scope.
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,ios,,com.3mosquitos.MercadoLibre,"Mercado Libres iOS: https://apps.apple.com/ar/app/mercado-libre/id463624852
+"
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,android,,com.mercadoenvios.crowdsourcing,Mercado Envíos Extra: https://play.google.com/store/apps/details?id=com.mercadoenvios.crowdsourcing
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,android,,com.mercadoenvios.driver,Mercado Envíos Flex: https://play.google.com/store/apps/details?id=com.mercadoenvios.driver
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,android,,com.mercadolibre,Mercado Libre Android: https://play.google.com/store/apps/details?id=com.mercadolibre
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,ios,,com.mercadopago.MercadoPago,"Mercado Pago iOS
+https://itunes.apple.com/ar/app/mercado-pago-recargar-celular/id925436649"
+hackerone,MercadoLibre,https://hackerone.com/mercadolibre,android,,com.mercadopago.wallet,"Mercado Pago Android:
+https://play.google.com/store/apps/details?id=com.mercadopago.wallet"
+hackerone,Urban Company,https://hackerone.com/urbancompany,ios,,1032480595,This is our customer iOS apps
+hackerone,Urban Company,https://hackerone.com/urbancompany,ios,,982922982,This is our professional ios app.
+hackerone,Urban Company,https://hackerone.com/urbancompany,android,,com.urbanclap.provider,This is our partner android app.
+hackerone,Urban Company,https://hackerone.com/urbancompany,android,,com.urbanclap.urbanclap,This is our customer app.
+hackerone,Remitly,https://hackerone.com/remitly,ios,,674258465,
+hackerone,Remitly,https://hackerone.com/remitly,android,,com.remitly.androidapp,
+hackerone,S-Pankki,https://hackerone.com/s-pankki,ios,,740514933,"S-mobiili banking application (iOS).
+
+The application can be found from App Store 
+https://apps.apple.com/fi/app/s-mobiili/id740514933?l=fi
+"
+hackerone,S-Pankki,https://hackerone.com/s-pankki,android,,fi.spankki,"S-mobiili banking application (Android).
+
+The application can be found from Google Play https://play.google.com/store/apps/details?id=fi.spankki&hl=fi
+"
+hackerone,Flickr,https://hackerone.com/flickr,ios,,328407587,
+hackerone,Flickr,https://hackerone.com/flickr,android,,com.yahoo.mobile.client.android.flickr,
+hackerone,Matomo,https://hackerone.com/matomo,ios,,737216887,"Matomo Mobile 2 iOS App
+Only critical issues compromising the token are in scope."
+hackerone,Matomo,https://hackerone.com/matomo,android,,org.piwik.mobile2,"Matomo Mobile 2 Android App
+Only critical issues compromising the token are in scope."
+hackerone,Logitech,https://hackerone.com/logitech,ios,,1018340690,"This is the iOS app for the Circle ecosystem of devices,"
+hackerone,Logitech,https://hackerone.com/logitech,ios,,1294578643,This app is Streamlabs: Stream Live by Streamlabs
+hackerone,Logitech,https://hackerone.com/logitech,ios,,1456293789,This app is Logi Tune by Logitech Inc.
+hackerone,Logitech,https://hackerone.com/logitech,ios,,1476615877,This app is Streamlabs Deck by Streamlabs
+hackerone,Logitech,https://hackerone.com/logitech,ios,,632344648,App: BOOM & MEGABOOM by Ultimate Ears
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.getmeetio.*,"Are in the scope:
+Meetio Room (com.getmeetio.room), Android
+Meetio View (com.getmeetio.view), Android
+Meetio Desk (com.getmeetio.meetiodesk), Android
+Meetio Update (com.getmeetio.update), Android
+Meetio System (com.getmeetio.system), Android
+Meetio Personal (com.getmeetio.personal), Android"
+hackerone,Logitech,https://hackerone.com/logitech,ios,,com.getmeetio.Meetio-Enterprise,"Meetio Personal (com.getmeetio.Meetio-Enterprise), iOS"
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.logitech.circle,This app is part of the Circle ecosystem of camera devices.
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.logitech.logue,This App is Logi Tune for Zone Headsets by Logitech
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.logitech.ueboom,App: BOOM & MEGABOOM by Ultimate Ears
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.streamlabs,"This is the ""Streamlabs: Live Streaming"" App by Streamlabs"
+hackerone,Logitech,https://hackerone.com/logitech,android,,com.streamlabs.slobsrc,
+hackerone,Marriott Bug Bounty Program,https://hackerone.com/marriott,ios,,455004730,
+hackerone,Hyatt Hotels,https://hackerone.com/hyatt,ios,,476639005,
+hackerone,Hyatt Hotels,https://hackerone.com/hyatt,android,,com.Hyatt,
+hackerone,Acronis,https://hackerone.com/acronis,ios,,1118448159,Acronis Cyber Protect for [iOS](https://apps.apple.com/app/acronis-cyber-backup/id1118448159).
+hackerone,Acronis,https://hackerone.com/acronis,ios,,1192506963,Acronis Files Cloud for [iOS](https://apps.apple.com/us/app/files-cloud/id1192506963).
+hackerone,Acronis,https://hackerone.com/acronis,ios,,429704844,Acronis Files Advanced for [iOS](https://apps.apple.com/us/app/acronis-files-advanced/id429704844).
+hackerone,Acronis,https://hackerone.com/acronis,ios,,978342143,Acronis Mobile for [iOS](https://apps.apple.com/app/acronis-true-image-mobile/id978342143).
+hackerone,Acronis,https://hackerone.com/acronis,android,,com.acronis.abc,Acronis Cyber Protect for [Android](https://play.google.com/store/apps/details?id=com.acronis.cyberb2b).
+hackerone,Acronis,https://hackerone.com/acronis,android,,com.acronis.acronistrueimage,Acronis Mobile for [Android](https://play.google.com/store/apps/details?id=com.acronis.cyberb2c).
+hackerone,PayPal,https://hackerone.com/paypal,ios,,351727428,[iOS Venmo App](https://apps.apple.com/us/app/venmo/id351727428)
+hackerone,PayPal,https://hackerone.com/paypal,android,,com.paypal.android.p2pmobile,
+hackerone,PayPal,https://hackerone.com/paypal,ios,,com.paypal.merchant,
+hackerone,PayPal,https://hackerone.com/paypal,android,,com.paypal.merchant.client,
+hackerone,PayPal,https://hackerone.com/paypal,android,,com.venmo,
+hackerone,PayPal,https://hackerone.com/paypal,android,,com.xoom.android.app,
+hackerone,PayPal,https://hackerone.com/paypal,ios,,com.xoom.app,
+hackerone,PayPal,https://hackerone.com/paypal,ios,,com.yourcompany.PPClient,
+hackerone,Affirm,https://hackerone.com/affirm,android,,com.affirm.central.audit,This is the Android testing app built for HackerOne. It's distributed through Google Play Store.
+hackerone,Affirm,https://hackerone.com/affirm,ios,,com.affirm.internal.hackerone,This is the testing iOS app built for HackerOne. It is distributed through Crashlytics.
+hackerone,Crypto.com,https://hackerone.com/crypto,android,,co.mona.android,"Get the app here: https://play.google.com/store/apps/details?id=co.mona.android
+
+You won’t need test accounts for this as it will be public-facing sites for now.
+
+The app should give you the functionality to start using CRO services."
+hackerone,Crypto.com,https://hackerone.com/crypto,ios,,com.defi.wallet,https://apps.apple.com/app/crypto-com-wallet/id1512048310
+hackerone,Crypto.com,https://hackerone.com/crypto,android,,com.defi.wallet,https://play.google.com/store/apps/details?id=com.defi.wallet
+hackerone,Crypto.com,https://hackerone.com/crypto,ios,,com.monaco.mobile,
+hackerone,GoodRx,https://hackerone.com/goodrx,android,,com.goodrx,Playstore Download: https://play.google.com/store/apps/details?id=com.goodrx
+hackerone,GoodRx,https://hackerone.com/goodrx,ios,,com.goodrx.iphone,iOS Download: https://itunes.apple.com/app/id485357017
+hackerone,Flutter UK&I,https://hackerone.com/flutteruki,android,,com.flutter.bem.release,
+hackerone,BitMEX,https://hackerone.com/bitmex,ios,,1589023233,
+hackerone,BitMEX,https://hackerone.com/bitmex,android,,com.bitmex.app.android,
+hackerone,BitMEX,https://hackerone.com/bitmex,android,,https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet,Please see the instructions under the mobile beta access section of our policy
+hackerone,Crowdstrike,https://hackerone.com/crowdstrike,ios,,apps.apple.com/us/app/crowdstrike-falcon/id1458815656,
+hackerone,Crowdstrike,https://hackerone.com/crowdstrike,android,,play.google.com/store/apps/details?id=com.crowdstrike.falconmobile,
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,GS Select iOS app,[GS Select iOS app](https://apps.apple.com/us/app/gs-select/id1634151697)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,com.gs.gsnow.external,[GS Now iOS](https://apps.apple.com/us/app/gs-now/id1473474041)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,com.gs.gstrader.external,[Marquee Trader Mobile](https://apps.apple.com/us/app/marquee-trader-mobile/id1518269915)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.gs.mobile.gsnow,[GS Now Android](https://play.google.com/store/apps/details?id=com.gs.mobile.gsnow)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.gs.mobile.trader,[Marquee Trader Android](https://play.google.com/store/apps/details?id=com.gs.mobile.trader&hl=en_IN&gl=US)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.gs.pfmg.wellness,[Goldman Sachs Wellness Android](https://play.google.com/store/apps/details?id=com.gs.pfmg.wellness&hl=en_IN&gl=US)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,com.gs.pwmdigital.external,[GS PWM iOS](https://apps.apple.com/us/app/gs-pwm/id1440077444)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.gs.pwmdigital.external.android,[GS PWM Android](https://play.google.com/store/apps/details?id=com.gs.pwmdigital.external.android)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.marcus.android,[Marcus US Android](https://play.google.com/store/apps/details?id=com.marcus.android&hl=en_IN&gl=US)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,android,,com.marcus.android.uk,[Marcus UK: Online Savings Bank Android](https://play.google.com/store/apps/details?id=com.marcus.android.uk)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,com.marcus.ios-uk,[Marcus UK: Online savings bank](https://apps.apple.com/gb/app/marcus-uk-online-savings-bank/id1489511701)
+hackerone,Goldman Sachs,https://hackerone.com/goldmansachs,ios,,com.marcus.ios-us,[Marcus by Goldman Sachs](https://apps.apple.com/us/app/marcus-save-borrow-invest/id1489511701)
+hackerone,Kindred Group,https://hackerone.com/kindred_group,ios,,463335337,"Unibet - Live Sports Betting
+
+https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337"
+hackerone,Kindred Group,https://hackerone.com/kindred_group,ios,,669969610,"Unibet Paris Sportifs
+
+https://apps.apple.com/fr/app/unibet-paris-sportifs/id669969610"
+hackerone,Kindred Group,https://hackerone.com/kindred_group,ios,,905382680,"Unibet Casino - Slots & Games
+
+https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680"
+hackerone,Kindred Group,https://hackerone.com/kindred_group,android,,com.unibet.casino,"The APK file is available for download:
+Unibet Casino - Slots & Games
+https://cdn.unicdn.net/apk/UnibetCasino.apk"
+hackerone,Kindred Group,https://hackerone.com/kindred_group,android,,com.unibet.unibetpro,"The APK file is available for download:
+Unibet - Live Sports Betting
+https://cdn.unicdn.net/apk/UnibetSports.apk"
+hackerone,Yoti,https://hackerone.com/yoti,ios,,983980808,https://itunes.apple.com/us/app/yoti/id983980808
+hackerone,Yoti,https://hackerone.com/yoti,android,,com.yoti.mobile.android.live,https://play.google.com/store/apps/details?id=com.yoti.mobile.android.live
+hackerone,Valve,https://hackerone.com/valve,ios,,com.valvesoftware.Steam,
+hackerone,Valve,https://hackerone.com/valve,android,,com.valvesoftware.Steam,
+hackerone,Epic Games,https://hackerone.com/epicgames,ios,,id1520720139,
+hackerone,Epic Games,https://hackerone.com/epicgames,ios,,id1534920947,
+hackerone,Malwarebytes,https://hackerone.com/malwarebytes,ios,,com.malwarebytes.Malwarebytes,"Get all the extra iOS security you need in one app. Protect yourself from online threats and put a stop to annoying spam calls and texts. Browse the web with confidence and focus on the messages that matter.
+
+* Product page: https://www.malwarebytes.com/ios
+* Appstore: https://apps.apple.com/us/app/malwarebytes-mobile-security/id1327105431
+* Documentation: https://support.malwarebytes.com/hc/en-us/categories/360002468273-Malwarebytes-for-iOS
+"
+hackerone,Malwarebytes,https://hackerone.com/malwarebytes,android,,org.malwarebytes.antimalware,"Advanced antivirus and anti-malware with faster, safer web browsing.
+
+* Product page: https://www.malwarebytes.com/android / https://www.malwarebytes.com/chromebook
+* Documentation: https://support.malwarebytes.com/hc/en-us/categories/360002458034-Malwarebytes-for-Android-Chrome-OS
+"
+hackerone,Grammarly,https://hackerone.com/grammarly,android,,com.grammarly.android.keyboard,"Vulnerabilities in Grammarly Mobile Keyboard for Android with a working proof of concept may qualify for an additional bounty through the [Google Play Security Rewards Program](https://hackerone.com/googleplay). To see which vulnerabilities may qualify for a bounty, please refer to the Google Play Security Rewards Program’s [Vulnerability Criteria](https://hackerone.com/googleplay).
+"
+hackerone,Grammarly,https://hackerone.com/grammarly,ios,,com.grammarly.keyboard,
+hackerone,Deliveroo,https://hackerone.com/deliveroo,android,,com.deliveroo.driverapp,
+hackerone,Deliveroo,https://hackerone.com/deliveroo,ios,,com.deliveroo.orderapp,
+hackerone,Deliveroo,https://hackerone.com/deliveroo,android,,com.deliveroo.orderapp,
+hackerone,Deliveroo,https://hackerone.com/deliveroo,ios,,com.deliveroo.riderapp,
+hackerone,Bumble,https://hackerone.com/bumble,ios,,1604650263,
+hackerone,Bumble,https://hackerone.com/bumble,ios,,351331194,https://apps.apple.com/gb/app/badoo-dating-chat-friends/id351331194
+hackerone,Bumble,https://hackerone.com/bumble,ios,,403684733,https://apps.apple.com/gb/app/badoo-premium/id403684733
+hackerone,Bumble,https://hackerone.com/bumble,ios,,6444040977,
+hackerone,Bumble,https://hackerone.com/bumble,ios,,930441707,https://apps.apple.com/us/app/bumble-dating-meet-people/id930441707
+hackerone,Bumble,https://hackerone.com/bumble,ios,,com.badoo.hotornot,
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.badoo.mobile,https://play.google.com/store/apps/details?id=com.badoo.mobile
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.badoo.twa,https://play.google.com/store/apps/details?id=com.badoo.twa
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.bumble.app,https://play.google.com/store/apps/details?id=com.bumble.app
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.bumblebff.app,
+hackerone,Bumble,https://hackerone.com/bumble,ios,,com.flashgap.fruits,
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.flashgap.fruitz,
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.hotornot.app,
+hackerone,Bumble,https://hackerone.com/bumble,android,,com.official.rnapp,
+hackerone,Spotify,https://hackerone.com/spotify,ios,,com.anchorfminc.Anchor,
+hackerone,Spotify,https://hackerone.com/spotify,ios,,com.spotify.client,"Spotify - Music and Podcasts
+
+https://itunes.apple.com/us/app/spotify-music-and-podcasts/id324684580"
+hackerone,Spotify,https://hackerone.com/spotify,ios,,com.spotify.kids,"Spotify Kids
+
+https://apps.apple.com/ie/app/Spotify-Kids/id1470209570"
+hackerone,Spotify,https://hackerone.com/spotify,android,,com.spotify.kids,"Spotify Kids
+
+https://play.google.com/store/apps/details?id=com.spotify.kids"
+hackerone,Spotify,https://hackerone.com/spotify,android,,com.spotify.lite,"Spotify Lite
+
+https://play.google.com/store/apps/details?id=com.spotify.lite"
+hackerone,Spotify,https://hackerone.com/spotify,android,,com.spotify.music,"Spotify - Music and Podcasts
+
+https://play.google.com/store/apps/details?id=com.spotify.music"
+hackerone,Spotify,https://hackerone.com/spotify,ios,,com.spotify.s4a,"Spotify for Artists
+
+https://itunes.apple.com/us/app/spotify-for-artists/id1222021797"
+hackerone,Spotify,https://hackerone.com/spotify,android,,com.spotify.s4a,"Spotify for Artists
+
+https://play.google.com/store/apps/details?id=com.spotify.s4a"
+hackerone,Spotify,https://hackerone.com/spotify,android,,com.spotify.tv.android,"Spotify Music - for Android TV
+
+https://play.google.com/store/apps/details?id=com.spotify.tv.android"
+hackerone,Spotify,https://hackerone.com/spotify,android,,fm.anchor.android,
+hackerone,Dyson,https://hackerone.com/dyson,ios,,993135524,(Dyson Link App - https://itunes.apple.com/gb/app/dyson-link/id993135524)
+hackerone,Dyson,https://hackerone.com/dyson,android,,com.dyson.mobile.android,(Dyson Link App - https://play.google.com/store/apps/details?id=com.dyson.mobile.android)
+hackerone,Shipt,https://hackerone.com/shipt,ios,,971888874,IOS Member App
+hackerone,Shipt,https://hackerone.com/shipt,ios,,976353472,IOS Shopper App
+hackerone,Shipt,https://hackerone.com/shipt,android,,com.shipt.groceries,Shipt Member App
+hackerone,Shipt,https://hackerone.com/shipt,android,,com.shipt.shopper,Shipt Shopper App
+hackerone,Nord Security,https://hackerone.com/nordsecurity,ios,,1486322860,"NordPass - [Apple App Store](https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?ls=1&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)
+
+Please make sure you are testing the latest version."
+hackerone,Nord Security,https://hackerone.com/nordsecurity,ios,,905953485,"NordVPN - [Apple App Store](https://apps.apple.com/US/app/id905953485?mt=8)
+
+Please make sure you are testing the latest version."
+hackerone,Nord Security,https://hackerone.com/nordsecurity,android,,All Mobile Assets,"iOS: App Store	(905953485) NordVPN - [Apple App Store](https://apps.apple.com/US/app/id905953485?mt=8)
+Please make sure you are testing the latest version.
+
+ iOS: App Store (1486322860) NordPass - [Apple App Store](https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?ls=1&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)
+Please make sure you are testing the latest version.
+
+Android .apk: com.nordvpn.android NordVPN - [Android Sideload Download](https://nordvpn.com/download/android/)
+Please make sure you are testing the latest version.
+
+Android Play Store: com.nordvpn.android NordVPN - [Google Play Store](https://play.google.com/store/apps/details?id=com.nordvpn.android)
+Please make sure you are testing the latest version.
+
+Android Play Store: com.nordpass.android.app.password.manager NordPass - [Google Play Store](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager&launch=true&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)
+
+Please make sure you are testing the latest version."
+hackerone,Nord Security,https://hackerone.com/nordsecurity,android,,com.nordpass.android.app.password.manager,"NordPass - [Google Play Store](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager&launch=true&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)
+
+Please make sure you are testing the latest version."
+hackerone,Nord Security,https://hackerone.com/nordsecurity,android,,com.nordvpn.android,"NordVPN - [Google Play Store](https://play.google.com/store/apps/details?id=com.nordvpn.android)
+
+Please make sure you are testing the latest version."
+hackerone,Lyst,https://hackerone.com/lyst,ios,,597940518,
+hackerone,Lyst,https://hackerone.com/lyst,android,,com.lyst.lystapp,
+hackerone,Kiwi.com,https://hackerone.com/kiwicom,ios,,com.skypicker.Skypicker,**Primary target** - Available in [App Store](https://itunes.apple.com/bs/app/kiwi-com-cheap-flight-tickets/id657843853)
+hackerone,Kiwi.com,https://hackerone.com/kiwicom,android,,com.skypicker.main,**Primary target** - Available in the [Play Store](https://play.google.com/store/apps/details?id=com.skypicker.main)
+hackerone,Enjin,https://hackerone.com/enjin,ios,,com.enjin.mobile.wallet,"https://apps.apple.com/us/app/enjin-cryptocurrency-wallet/id1349078375
+
+**Background**
+The Enjin Wallet is a secure, feature-packed, and convenient blockchain asset wallet built for traders, gamers, and developers."
+hackerone,Enjin,https://hackerone.com/enjin,android,,com.enjin.mobile.wallet,"https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet
+
+**Background**
+The Enjin Wallet is a secure, feature-packed, and convenient blockchain asset wallet built for traders, gamers, and developers."
+hackerone,Quora,https://hackerone.com/quora,android,,com.quora.android,"The latest version of Android app installed from the official store at:
+https://play.google.com/store/apps/details?id=com.quora.android
+
+"
+hackerone,Quora,https://hackerone.com/quora,ios,,com.quora.app.mobile,"The latest version of iOS app installed from the official store at:
+https://itunes.apple.com/us/developer/quora-inc/id456034440"
+hackerone,Brave Software,https://hackerone.com/brave,android,,com.brave.browser,
+hackerone,Brave Software,https://hackerone.com/brave,android,,com.brave.browser_beta,
+hackerone,Brave Software,https://hackerone.com/brave,ios,,com.brave.ios.browser,
+hackerone,EXNESS,https://hackerone.com/exness,ios,,Exness Investor,https://apps.apple.com/id/app/exness-investor/id1579331769
+hackerone,EXNESS,https://hackerone.com/exness,ios,,Exness Social Trading,https://apps.apple.com/id/app/exness-social-trading/id1392465628
+hackerone,EXNESS,https://hackerone.com/exness,ios,,Exness Trade: Online Trading,https://apps.apple.com/id/app/exness-trader-trade-on-the-go/id1359763701
+hackerone,EXNESS,https://hackerone.com/exness,android,,com.exness.android.pa,"Exness Trade: Online Trading
+https://play.google.com/store/apps/details?id=com.exness.android.pa"
+hackerone,EXNESS,https://hackerone.com/exness,android,,com.exness.investments,"Social Trading
+https://play.google.com/store/apps/details?id=com.exness.investments"
+hackerone,EXNESS,https://hackerone.com/exness,android,,com.exness.investor,"Exness Investor
+https://play.google.com/store/apps/details?id=com.exness.investor"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,com.aqupepgames.projectpepe,"[Looney Tunes: World of Mayhem](https://apps.apple.com/app/looney-tunes-world-of-mayhem/id1158042933)
+Join Bugs Bunny and build the greatest “Toon Team” with Tweety Bird, Taz, Road Runner, and more to wage wacky battles for control of the Looney Tunes World.
+
+**Status:** Available worldwide.
+
+Shared Framework: No"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.aqupepgames.projectpepe,"[Looney Tunes: World of Mayhem](https://play.google.com/store/apps/details?id=com.aqupepgames.projectpepe)
+Join Bugs Bunny and build the greatest “Toon Team” with Tweety Bird, Taz, Road Runner, and more to wage wacky battles for control of the Looney Tunes World.
+
+**Status:** Available worldwide.
+
+Shared Framework: No"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,com.foxnextgames.m3,
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.foxnextgames.m3,
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.kitkagames.fallbuddies,"[Stumbleguys](https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies)
+Stumble Guys is a massive multiplayer party knockout game with up to 32 players online. Join millions of players and stumble to victory in this fun multiplayer knockout battle royale! Are you ready to enter the running chaos? Running, stumbling, falling, jumping, and winning has never been so fun!"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,com.pieyel.scrabble,"[Scrabble GO](https://apps.apple.com/nz/app/scrabble-go-new-word-game/id1215933788)
+The world’s greatest word game, is all new and reimagined as a free to play mobile game!
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.pieyel.scrabble,"[Scrabble GO](https://play.google.com/store/apps/details?id=com.pieyel.scrabble)
+The world’s greatest word game, is all new and reimagined as a free to play mobile game!
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.scopely.monopolygo,"[Monopoly GO! ](https://play.google.com/store/apps/details?id=com.scopely.monopolygo)
+Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It’s the new way to play - board flipping cleanup not required!"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.scopely.startrek,"[Star Trek Fleet Command ](https://play.google.com/store/apps/details?id=com.scopely.startrek)
+You have the conn! Summon your skills in strategy, combat, diplomacy, and leadership to master the dangerous universe of Star Trek Fleet Command."
+hackerone,Scopely,https://hackerone.com/scopely,ios,,com.scopely.yux,"[Yahtzee with Buddies Dice Game](https://apps.apple.com/us/app/yahtzee-with-buddies-dice/id1206967173)
+Roll dice to play YAHTZEE® With Buddies! It is the fun, classic board game with a new look. Play dice with friends in this multiplayer game.
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.scopely.yux,"[Yahtzee with Buddies Dice Game](https://play.google.com/store/apps/details?id=com.scopely.yux)
+Roll dice to play YAHTZEE® With Buddies! It is the fun, classic board game with a new look. Play dice with friends in this multiplayer game.
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,com.withbuddies.dice.free,"[Dice With Buddies: Social Game](https://apps.apple.com/us/app/dice-with-buddies-social-game/id432750508)
+Dice With Buddies is a fun, new spin on your favorite classic dice game! Enjoyed by millions of players, you can play free multiplayer board games with family, friends, or new buddies! 
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,android,,com.withbuddies.dice.free,"[Dice With Buddies: Social Game](https://play.google.com/store/apps/details?id=com.withbuddies.dice.free)
+Dice With Buddies is a fun, new spin on your favorite classic dice game! Enjoyed by millions of players, you can play free multiplayer board games with family, friends, or new buddies! 
+
+**Status:** Available worldwide.
+
+Shared Framework: Yes"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,id1427744264,"[Star Trek Fleet Command](https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264)
+You have the conn! Summon your skills in strategy, combat, diplomacy, and leadership to master the dangerous universe of Star Trek Fleet Command.
+"
+hackerone,Scopely,https://hackerone.com/scopely,ios,,id1541153375,"[StumbleGuys](https://apps.apple.com/es/app/stumble-guys/id1541153375)
+Stumble Guys is a massive multiplayer party knockout game with up to 32 players online. Join millions of players and stumble to victory in this fun multiplayer knockout battle royale! Are you ready to enter the running chaos? Running, stumbling, falling, jumping, and winning has never been so fun!"
+hackerone,Bitso,https://hackerone.com/bitso,ios,,1292836438,
+hackerone,Bitso,https://hackerone.com/bitso,ios,,1539469172,
+hackerone,Bitso,https://hackerone.com/bitso,android,,com.bitso.alpha,
+hackerone,Bitso,https://hackerone.com/bitso,android,,com.bitso.wallet,
+hackerone,Nextcloud,https://hackerone.com/nextcloud,ios,,com.nextcloud.Talk,"Our official iOS Talk client from [https://itunes.apple.com/app/id1296825574](https://itunes.apple.com/app/id1296825574)
+
+"
+hackerone,Nextcloud,https://hackerone.com/nextcloud,android,,com.nextcloud.client,"Our official Android client from [https://play.google.com/store/apps/details?id=com.nextcloud.client](https://play.google.com/store/apps/details?id=com.nextcloud.client ""https://play.google.com/store/apps/details?id=com.nextcloud.client"")
+
+"
+hackerone,Nextcloud,https://hackerone.com/nextcloud,android,,com.nextcloud.talk2,"Our official Android Talk client from [https://play.google.com/store/apps/details?id=com.nextcloud.talk2](https://play.google.com/store/apps/details?id=com.nextcloud.talk2)
+
+"
+hackerone,Nextcloud,https://hackerone.com/nextcloud,ios,,com.peterandlinda.iOCNotes,"Our official iOS Nextcloud Notes client from [https://itunes.apple.com/app/id813973264](https://itunes.apple.com/app/id813973264)
+
+"
+hackerone,Nextcloud,https://hackerone.com/nextcloud,android,,it.niedermann.owncloud.notes,"Our official Android Notes client from [https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes](https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes ""https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes"")
+"
+hackerone,Nextcloud,https://hackerone.com/nextcloud,ios,,it.twsweb.Nextcloud,"Our official iOS client from [https://itunes.apple.com/app/nextcloud/id1125420102](https://itunes.apple.com/app/nextcloud/id1125420102 ""https://itunes.apple.com/app/nextcloud/id1125420102"")
+
+"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.br,"Starbucks Brazil ios app
+https://itunes.apple.com/br/app/starbucks-brasil/id1041179480"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.br,"Starbucks Brazil Android App.
+https://play.google.com/store/apps/details?id=com.starbucks.br"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.cn,"Starbucks China Android App.
+https://play.google.com/store/apps/details?id=com.starbucks.cn"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.de,"Starbucks Germany ios app.
+https://itunes.apple.com/de/app/starbucks-deutschland/id948562829"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.de,"Starbucks Germany Android App
+https://play.google.com/store/apps/details?id=com.starbucks.de
+"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.fr,"Starbucks France ios app.
+https://itunes.apple.com/fr/app/starbucks-france/id943993603"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.fr,"Starbucks France Android App
+https://play.google.com/store/apps/details?id=com.starbucks.fr"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.jp,"Starbucks Japan ios app
+https://itunes.apple.com/jp/app/id1113037275"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.jp,"Starbucks Japan Android App.
+https://play.google.com/store/apps/details?id=com.starbucks.jp"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.mobilecard,"Starbucks USA Android app.
+https://play.google.com/store/apps/details?id=com.starbucks.mobilecard"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.mystarbucks,"Starbucks US ios app.
+https://itunes.apple.com/us/app/starbucks/id331177714"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.mystarbucks.kr,"Starbucks Korea iOS App
+https://itunes.apple.com/us/app/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4/id466682252"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbucks.sbuxsingapore,"Starbucks Singapore iOS App
+https://itunes.apple.com/sg/app/starbucks-singapore/id574621564"
+hackerone,Starbucks,https://hackerone.com/starbucks,android,,com.starbucks.singapore,"Starbucks Singapore Android App
+https://play.google.com/store/apps/details?id=com.starbucks.singapore
+
+Assets eligible for bounty referenced directly by this app:
+https://mobile.starbucks.com.sg"
+hackerone,Starbucks,https://hackerone.com/starbucks,ios,,com.starbuckschina.mystarbucksmoments,"Starbucks China ios app
+https://itunes.apple.com/us/app/starbucks-china/id499819758"
+hackerone,Wealthsimple,https://hackerone.com/wealthsimple,android,,com.wealthsimple,
+hackerone,Wealthsimple,https://hackerone.com/wealthsimple,ios,,com.wealthsimple.wealthsimple,
+hackerone,LocalTapiola,https://hackerone.com/localtapiola,ios,,1298908406,"This is the Terveyshelppi -application. We are mainly looking for critical information leaks (not version numbers or similar low value) and threats to either the customer or the customer s device. The app can be found here: https://apps.apple.com/fi/app/terveyshelppi/id1298908406
+
+Note: If exploitation requires that the device is rooted, the finding is automatically out of scope. 
+"
+hackerone,LocalTapiola,https://hackerone.com/localtapiola,ios,,1439784468,"This is the LemmikkiHelppi -application. We are mainly looking for critical information leaks (not version numbers or similar low value) and threats to either the customer or the customer s device. The app can be found here: https://itunes.apple.com/fi/app/lemmikkihelppi/id1439784468 
+
+Note: If exploitation requires that the device is rooted, the finding is automatically out of scope. "
+hackerone,LocalTapiola,https://hackerone.com/localtapiola,android,,fi.lahitapiola.lemmikkihelppi,"This is the LemmikkiHelppi -application. We are mainly looking for critical information leaks (not version numbers or similar low value) and threats to either the customer or the customer s device. The app can be found here: https://play.google.com/store/apps/details?id=fi.lahitapiola.lemmikkihelppi&hl=en
+
+Note: If exploitation requires that the device is rooted, the finding is automatically out of scope. "
+hackerone,LocalTapiola,https://hackerone.com/localtapiola,android,,fi.lahitapiola.mobile,"This is the Terveyshelppi -application. We are mainly looking for critical information leaks (not version numbers or similar low value) and threats to either the customer or the customer s device. The app can be found here: https://play.google.com/store/apps/details?id=fi.lahitapiola.mobile&hl=en
+
+Note: If exploitation requires that the device is rooted, the finding is automatically out of scope. "
+hackerone,Zomato,https://hackerone.com/zomato,ios,,434613896,Zomato: Food Delivery & Dining
+hackerone,Zomato,https://hackerone.com/zomato,android,,com.application.zomato,
+hackerone,Zomato,https://hackerone.com/zomato,android,,com.application.zomatomerchant,
+hackerone,Zomato,https://hackerone.com/zomato,android,,com.grofers.customerapp,"Blinkit's Customer Android App:
+https://play.google.com/store/apps/details?id=com.grofers.customerapp 
+
+"
+hackerone,Glassdoor,https://hackerone.com/glassdoor,ios,,1005070636,-
+hackerone,Glassdoor,https://hackerone.com/glassdoor,ios,,589698942,
+hackerone,Glassdoor,https://hackerone.com/glassdoor,android,,com.fishbowlmedia.fishbowl,-
+hackerone,Glassdoor,https://hackerone.com/glassdoor,android,,com.glassdoor.app,
+hackerone,Tinder,https://hackerone.com/tinder,ios,,547702041,
+hackerone,Tinder,https://hackerone.com/tinder,android,,com.tinder,
+hackerone,Grab,https://hackerone.com/grab,ios,,1142114207,"OVO iOS application
+https://apps.apple.com/ID/app/id1142114207
+Staging/Development/UAT environments are considered out-of-scope, such as:
+- *.byte-stack.net
+- *.dududev
+- *.uat-ovo.net
+and other assets that might not be explicitly listed."
+hackerone,Grab,https://hackerone.com/grab,ios,,1257641454,"Grab Driver
+
+* Eligible for updated mobile Apps bounty rewards offering (up to $15,000 for a Critical vulnerability)"
+hackerone,Grab,https://hackerone.com/grab,ios,,1343620481,GrabPay Merchant
+hackerone,Grab,https://hackerone.com/grab,ios,,647268330,"Grab (iOS)
+
+* Eligible for updated mobile Apps bounty rewards offering (up to $15,000 for a Critical vulnerability)"
+hackerone,Grab,https://hackerone.com/grab,android,,com.grab.merchant,
+hackerone,Grab,https://hackerone.com/grab,android,,com.grabpay.merchant,GrabPay Merchant
+hackerone,Grab,https://hackerone.com/grab,android,,com.grabtaxi.driver2,"Grab Driver
+
+* Eligible for updated mobile Apps bounty rewards offering (up to $15,000 for a Critical vulnerability)"
+hackerone,Grab,https://hackerone.com/grab,android,,com.grabtaxi.passenger,"Grab (Android)
+
+* Eligible for updated mobile Apps bounty rewards offering (up to $15,000 for a Critical vulnerability)"
+hackerone,Grab,https://hackerone.com/grab,android,,ovo.id,"OVO's Android App:
+https://play.google.com/store/apps/details?id=ovo.id
+
+Staging/Development/UAT environments are considered out-of-scope, such as:
+*.byte-stack.net
+*.dududev
+*.uat-ovo.net and other assets that might not be explicitly listed."
+hackerone,Moneybird,https://hackerone.com/moneybird,ios,,com.moneybird.Moneybird,
+hackerone,Moneybird,https://hackerone.com/moneybird,android,,com.moneybird.android,
+hackerone,Dashlane,https://hackerone.com/dashlane,android,,com.dashlane,
+hackerone,Dashlane,https://hackerone.com/dashlane,ios,,com.dashlane.dashlanephonefinal,
+hackerone,Zendesk,https://hackerone.com/zendesk,ios,,1174276185,Zendesk Support for iOS
+hackerone,Zendesk,https://hackerone.com/zendesk,ios,,488534576,https://apps.apple.com/us/app/base-crm-sales-tracking/id488534576
+hackerone,Zendesk,https://hackerone.com/zendesk,ios,,549057844,Zendesk Chat for iOS
+hackerone,Zendesk,https://hackerone.com/zendesk,android,,com.futuresimple.base,https://play.google.com/store/apps/details?id=com.futuresimple.base
+hackerone,Zendesk,https://hackerone.com/zendesk,android,,com.zendesk.android,Zendesk Support for Android
+hackerone,Zendesk,https://hackerone.com/zendesk,android,,com.zopim.android,Zendesk Chat for Android
+hackerone,Zendesk,https://hackerone.com/zendesk,android,,https://developer.zendesk.com/documentation/zendesk-sdks/#android,"Zendesk Support SDK for Android
+"
+hackerone,Zendesk,https://hackerone.com/zendesk,ios,,https://developer.zendesk.com/documentation/zendesk-sdks/#ios,Zendesk Support SDK for iOS 
+hackerone,KAYAK,https://hackerone.com/kayak,android,,com.kayak.android,The most recent version of this app is in scope
+hackerone,KAYAK,https://hackerone.com/kayak,ios,,com.kayak.travel,The most recent version of this app is in scope
+hackerone,Basecamp,https://hackerone.com/basecamp,android,,com.basecamp.bc3,Basecamp for Android: https://basecamp.com/via#basecamp-for-ios-and-android-devices
+hackerone,Basecamp,https://hackerone.com/basecamp,ios,,com.basecamp.bc3-ios,Basecamp for iOS: https://basecamp.com/via#basecamp-for-ios-and-android-devices
+hackerone,Basecamp,https://hackerone.com/basecamp,android,,com.basecamp.hey,HEY for Android: https://play.google.com/store/apps/details?id=com.basecamp.hey
+hackerone,Basecamp,https://hackerone.com/basecamp,ios,,com.hey.app.ios,HEY for iOS: https://apps.apple.com/us/app/hey-email/id1506603805
+hackerone,Shopify,https://hackerone.com/shopify,android,,Shopify Mobile Applications,"Android: https://play.google.com/store/apps/dev?id=8929232438554100687
+iOS: https://itunes.apple.com/ca/developer/shopify-inc/id371294475
+
+Note: any services operated by a third party without a proof of concept demonstrating impact on Shopify users will likely be ineligible for a bounty."
+hackerone,Airbnb,https://hackerone.com/airbnb,android,,com.airbnb.android,Higher Impact Scope
+hackerone,Airbnb,https://hackerone.com/airbnb,ios,,com.airbnb.app,Higher Impact Scope
+hackerone,Airbnb,https://hackerone.com/airbnb,ios,,com.luxuryretreats.ios,Lower Impact Scope
+hackerone,Adobe,https://hackerone.com/adobe,ios,,com.adobe.PSMobile,
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.adobe.echosign,
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.adobe.fas,
+hackerone,Adobe,https://hackerone.com/adobe,ios,,com.adobe.lrmobile,Lightroom
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.adobe.lrmobile,
+hackerone,Adobe,https://hackerone.com/adobe,ios,,com.adobe.lrmobilephone,Lightroom for iPhone
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.adobe.reader,
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.adobe.scan.android,
+hackerone,Adobe,https://hackerone.com/adobe,ios,,com.frame.FrameIO,
+hackerone,Adobe,https://hackerone.com/adobe,ios,,com.iphone.workfront,
+hackerone,Adobe,https://hackerone.com/adobe,android,,com.workfront.android.aware,
+hackerone,Blockchain,https://hackerone.com/blockchain,ios,,1557515848,"Blockchain.com Exchange App
+https://apps.apple.com/us/app/blockchain-com-exchange/id1557515848"
+hackerone,Blockchain,https://hackerone.com/blockchain,ios,,493253309,"Blockchain.com Wallet App
+https://itunes.apple.com/us/app/blockchain-wallet-bitcoin/id493253309"
+hackerone,Blockchain,https://hackerone.com/blockchain,android,,com.blockchain.exchange,"Blockchain.com Exchange App
+https://play.google.com/store/apps/details?id=com.blockchain.exchange"
+hackerone,Blockchain,https://hackerone.com/blockchain,android,,piuk.blockchain.android,"Blockchain.com Wallet App
+https://play.google.com/store/apps/details?id=piuk.blockchain.android"
+hackerone,Ubiquiti Inc.,https://hackerone.com/ui,android,,com.ubnt.discovery.app,
+hackerone,Ubiquiti Inc.,https://hackerone.com/ui,android,,com.ubnt.easyunifi,
+hackerone,Ubiquiti Inc.,https://hackerone.com/ui,android,,com.ubnt.ucrm,
+hackerone,Ubiquiti Inc.,https://hackerone.com/ui,android,,com.ubnt.umobile,
+hackerone,Snapchat,https://hackerone.com/snapchat,ios,,com.bitstrips.imoji,"[Non-core asset]
+[iOS App Store](https://itunes.apple.com/us/app/bitmoji-keyboard-your-avatar/id868077558)"
+hackerone,Snapchat,https://hackerone.com/snapchat,android,,com.bitstrips.imoji,"[Non-core asset]
+[Google Play Store](https://play.google.com/store/apps/details?id=com.bitstrips.imoji)"
+hackerone,Snapchat,https://hackerone.com/snapchat,android,,com.snapchat.android,"[Core asset]
+[Google Play Store](https://play.google.com/store/apps/details?id=com.snapchat.android)"
+hackerone,Snapchat,https://hackerone.com/snapchat,ios,,com.toyopagroup.picaboo,"[Core asset]
+[iOS App Store](https://itunes.apple.com/us/app/snapchat/id447188370?mt=8)"
+hackerone,Priceline,https://hackerone.com/priceline,ios,,336381998,[Priceline iOS App](https://apps.apple.com/us/app/priceline-hotel-travel-deals/id336381998)
+hackerone,Priceline,https://hackerone.com/priceline,android,,com.priceline.android.negotiator,
+hackerone,Yelp,https://hackerone.com/yelp,ios,,284910350,Yelp Mobile
+hackerone,Yelp,https://hackerone.com/yelp,ios,,542767785,Restaurant Manager iOS app
+hackerone,Yelp,https://hackerone.com/yelp,ios,,936983378,Yelp for Business Owners
+hackerone,Yelp,https://hackerone.com/yelp,android,,com.yelp.android,Yelp Mobile for Android 
+hackerone,Yelp,https://hackerone.com/yelp,android,,com.yelp.android.biz,"Yelp for Business Owners
+"
+hackerone,Vimeo,https://hackerone.com/vimeo,ios,,1491791513,
+hackerone,Vimeo,https://hackerone.com/vimeo,ios,,425194759,
+hackerone,Vimeo,https://hackerone.com/vimeo,ios,,486781045,
+hackerone,Vimeo,https://hackerone.com/vimeo,ios,,493086499,
+hackerone,Vimeo,https://hackerone.com/vimeo,android,,VHX Branded Customer Android Apps,**Vulnerabilities must affect ANY/ALL VHX branded Android apps and not just a single VHX customer app**
+hackerone,Vimeo,https://hackerone.com/vimeo,ios,,VHX Branded Customer iOS Apps,**Vulnerabilities must affect ANY/ALL VHX branded iOS apps and not just a single VHX customer app**
+hackerone,Vimeo,https://hackerone.com/vimeo,android,,com.livestream.livestream,
+hackerone,Vimeo,https://hackerone.com/vimeo,android,,com.magisto,
+hackerone,Vimeo,https://hackerone.com/vimeo,android,,com.vimeo.android.videoapp,
+hackerone,Vimeo,https://hackerone.com/vimeo,android,,com.vimeocreate.videoeditor.moviemaker,
+hackerone,LinkedIn,https://hackerone.com/linkedin,ios,,288429040,
+hackerone,LinkedIn,https://hackerone.com/linkedin,android,,com.linkedin.android,
+hackerone,Harvest,https://hackerone.com/harvest,ios,,355395846,https://itunes.apple.com/us/app/harvest-time-expense-tracker/id355395846
+hackerone,Harvest,https://hackerone.com/harvest,android,,com.harvestapp,https://play.google.com/store/apps/details?id=com.harvestapp
+hackerone,X (Formerly Twitter),https://hackerone.com/x,ios,,com.atebits.Tweetie2,
+hackerone,X (Formerly Twitter),https://hackerone.com/x,android,,com.twitter.android,
+hackerone,Cloudflare Public Bug Bounty,https://hackerone.com/cloudflare,android,,WARP Mobile Apps,"Download on Android: https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone
+Download on iOS: https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627
+WARP is a free VPN for mobile phones. The app can be used as a 1.1.1.1 DNS resolver or VPN or our premium paid service Warp+. It works on wireguard protocol. See documentation section for more details.
+Areas of interest:
+Can other apps snoop with Warp
+Downgrade of connections
+Misconfiguration in the apps or backend
+MITM attacks
+
+Out of scope:
+Using WARP+ features without paying"
+hackerone,Automattic,https://hackerone.com/automattic,android,,com.tumblr,"- Minimum OS version: API 21
+
+Exclusions:
+- API keys in code
+- Certificate pinning"
+hackerone,Automattic,https://hackerone.com/automattic,ios,,com.tumblr.tumblr,"- Minimum OS version: iOS 11
+
+Exclusions:
+- API keys in code
+- Certificate pinning"
+hackerone,IRCCloud,https://hackerone.com/irccloud,ios,,com.irccloud.IRCCloud,"The iOS app is open source, decompilation issues are not eligible https://github.com/irccloud/ios
+Vulnerabilities requiring local or root access to a device are also not eligible."
+hackerone,IRCCloud,https://hackerone.com/irccloud,android,,com.irccloud.android,"The Android app is open source, decompilation issues are not eligible https://github.com/irccloud/android
+Vulnerabilities requiring local or root access to a device are also not eligible."
+hackerone,Coinbase,https://hackerone.com/coinbase,android,,com.coinbase.android,
+hackerone,Coinbase,https://hackerone.com/coinbase,ios,,com.coinbase.ios,
+hackerone,Coinbase,https://hackerone.com/coinbase,android,,com.coinbase.wallite,
+hackerone,Coinbase,https://hackerone.com/coinbase,android,,org.toshi,
+hackerone,Coinbase,https://hackerone.com/coinbase,ios,,org.toshi.distribution,
+hackerone,Slack,https://hackerone.com/slack,ios,,647922896,itunes.apple.com/us/app/quip-docs-chat-sheets/id647922896
+hackerone,Slack,https://hackerone.com/slack,android,,com.Slack,
+hackerone,Slack,https://hackerone.com/slack,android,,com.quip.quip,Only accepting Critical reports 2023-12-01 to 2024-06-01
+hackerone,Slack,https://hackerone.com/slack,ios,,com.slack.slackmdm,"Reports are accepted for vulnerabilities specific to the [Slack EMM/MDM version of the app](https://apps.apple.com/us/app/slack-for-emm/id1254292716).
+
+EMM client vulnerabilities in the absence of a valid MDM configuration via a supported MDM provider, (such as MobileIron), on an EMM-enabled Slack team are excluded."
+hackerone,Slack,https://hackerone.com/slack,ios,,com.tinyspeck.chatlyio,"The main Slack app is included: [Slack iOS App](https://apps.apple.com/us/app/slack/id618783545)
+
+Other versions of the app, such as the EMM and Intune versions, are not included."
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,7News,"* [7News iOS](https://itunes.apple.com/au/app/7news/id439828000?mt=8)
+* [7News Android](https://play.google.com/store/apps/details?id=com.seven.news&hl=en_US)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,AOL Mail,"## In Scope
+* *.mail.aol.com (see exclusions below)
+* rpc.mail.aol.com
+
+## Notes
+* oidc.mail.aol.com (Hosted by Mail, but belongs to `Membership`)
+
+## Out of Scope
+* mail.aol.com/calsvc
+* [AOL iOS](https://apps.apple.com/us/app/aol-news-email-weather-video/id646100661)
+* [AOL Android](https://play.google.com/store/apps/details?id=com.aol.mobile.aolapp&hl=en_US)
+* [AOL FireOS](https://www.amazon.com/AOL-Inc-Mail-News-Video/dp/B011VYAGSY)
+* [AOL Desktop Gold](https://get.aol.com/aol-desktop-gold) 
+* apis.mail.aol.com
+* test-apis.mail.aol.com
+* *.aolmail.com
+* mail.aol.com/classicab
+* mail.aol.com/getmydata
+* mail.aol.com/ws
+* *.aol.com"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Newsroom,"* [Newsroom Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.yahoo)
+* [Newsroom iOS](https://itunes.apple.com/us/app/newsroom-news-that-gets-you-talking/id304158842?mt=8)
+* Newsroom (web)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,RYOT,"## In Scope
+* RYOT Mobile SDK (iOS and Android) `https://s.yimg.com/cv/apiv2/ar_sdk/*
+* *.ryot.org (site under construction)
+
+## Notes
+* The RYOT Augmented Reality SDK is used by our major mobile apps. 
+* `ryot.org` is hosted on WordPress; WP’s services are not in scope
+
+## Out of Scope
+* *.ryotfilms.com (third party)
+* *.ryot.com  (third party)
+* *.portal.ryot.com (third party)
+"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,TW Media: News,"## In Scope
+* [Yahoo TW News Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.newstw)
+* [Yahoo TW News iOS](https://itunes.apple.com/tw/app/yahoo%E5%A5%87%E6%91%A9-%E7%9B%B4%E6%92%ADlive-%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/id864844562?mt=8)
+* Yahoo TW News 
+  * *.tw.news.yahoo.com
+  * Backend API: https://news-app.abumedia.yql.yahoo.com:443/ 
+  * Web: https://tw.news.yahoo.com
+  * Content API: https://ncp-gw-abu.media.yahoo.com/
+
+## Out of Scope
+* news.campaign.yahoo.com.tw
+* *.yahoo.com.tw"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,TW Media: Stock,"## In Scope
+* [Yahoo TW Stock Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.TWStock)
+* [Yahoo TW Stock iOS](https://itunes.apple.com/tw/app/yahoo%E5%A5%87%E6%91%A9%E8%82%A1%E5%B8%82/id790214428?mt=8)
+* Yahoo TW Stock
+  * tw.stock.yahoo.com
+  * API: https://stock-app.abumedia.yql.yahoo.com
+  * API: https://tw-finance-yql.media.yahoo.com
+
+## Notes
+* `stock.yahoo.com` and `finance.yahoo.com` are identical; Reports will NOT be credited same-bug-different-host bonuses when issues are found on both domains.
+* TW Stock Apps have a strong dependency with third party SDK(s) for receiving the real-time quote data in the market. Every page containing values (volume, prices, up/down flag, …) of index, tickers, etfs, …, ticker information, line chart, notifications setting are all from the SDK. And the connection with the SDK service is established when the app launches and lasts the app's whole lifetime. **These SDK service(s) are out of scope.**
+
+## Out of Scope
+* *.yahoo.com.tw
+* tw.finance.yahoo.com
+* Quote SDK (from Systex inc.)
+"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,TW eCommerce: Auctions,"## In Scope
+* [Yahoo TW Auctions Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.ecauction)
+* [Yahoo TW Auctions iOS](https://itunes.apple.com/tw/app/yahoo%E6%8B%8D%E8%B3%A3-%E5%88%8A%E7%99%BB%E5%85%8D%E8%B2%BB/id1033771352?mt=8)
+* Yahoo TW Auctions: 
+  * *.bid.yahoo.com
+  * https://tw.bid.yahoo.com
+* Yahoo TW Auctions APIs:
+  * https://tw.bid.yahoo.com/api/
+  * https://tw.api.bid.yahoo.com:4443
+* Search API: tw.search.ec.yahoo.com
+
+## Notes
+* Access to the Taiwan sites from some countries in Europe may be blocked. 
+* `Buyer` accounts can be set up for any Yahoo user.
+* `Seller` accounts require a TW phone number and 2FA.
+* **Do not** use fake data (like nid) when operating the cash functions, it may cause real money to be stuck; **we will hold you accountable for broken workflows.**
+* You are required to clean up all the testing data related to posting new products. 
+* You **must** include the following “test” label in **ALL** posts (in the most visible location)  to prevent regular users from interacting with hacker-created content: `[PARANOIDS-勿下標][TEST]` -- *Any reports identified that are missing this label, will not receive a bounty.*
+
+## Out of Scope
+* *.yahoo.com.tw
+* ismarus-ap-94600.tw.juiker.net
+* *.tw.juiker.net
+*  auth.tw.juiker.net/oauth2/getUserTokenByTurnkey
+* *.straas.net
+* iOS: JuikerIMSDK.framework, StraaS-iOS-SDK
+* Android: io.straas.android.sdk
+* ecfme.famiport.com.tw (Third Party)
+"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,TW eCommerce: Shopping,"## In Scope
+* [Yahoo TW Shopping Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.ecshopping)
+* [Yahoo TW Shopping iOS](https://itunes.apple.com/tw/app/yahoo%E5%A5%87%E6%91%A9%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83/id1061577845?mt=8)
+* Yahoo TW Shopping
+  * twpay.buy.yahoo.com 
+  * Web: https://tw.buy.yahoo.com/
+  * Mobile Web: https://m.tw.buy.yahoo.com/
+  * API: https://tw.mapi.shp.yahoo.com
+* Search API: tw.search.ec.yahoo.com
+* Rushbuy API: rushbuy.buy.yahoo.com
+
+## Out of Scope
+* *.yahoo.com.tw
+* iOS: TPDirect.framework
+* Android: tech.cherri.tpdirect.api
+"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Finance,"* [iOS](https://itunes.apple.com/us/app/yahoo-finance/id328412701?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=en_US)
+* *.finance.yahoo.com
+* OBI Premium Checkout: https://checkout.finance.yahoo.com/checkout/v1
+* API WebSockets Streaming Market Data: http://streamer.finance.yahoo.com
+* finance.mobile.yahoo.com
+* finance.query.yahoo.com"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo HK News,"* [Yahoo HK News Android](https://play.google.com/store/apps/details?id=com.yahoo.infohub)
+* [Yahoo HK News iOS](https://itunes.apple.com/hk/app/yahoo%E6%96%B0%E8%81%9E-%E9%A6%99%E6%B8%AF%E5%8D%B3%E6%99%82%E7%84%A6%E9%BB%9E/id425655609?mt=8)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Mail,"* [Yahoo Mail Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail)
+* [Yahoo Mail AndroidGo](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail.lite)
+* [Yahoo Mail FireOS](https://www.amazon.com/Yahoo-Mail-Keeps-you-organized/dp/B00632HWOG/)
+* [Yahoo Mail iOS](https://itunes.apple.com/us/app/yahoo-mail-keeps-you-organized/id577586159?mt=8)
+* [Yahoo Mail (web)](https://mail.yahoo.com/)
+
+Out of Scope:
+* mail.yahoo.com/cal/ (this is the same as `calendar.yahoo.com` and should be reported as Yahoo Calendar)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Search,"* [Yahoo Search Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search)
+* [Yahoo Search iOS](https://itunes.apple.com/us/app/yahoo-search/id361071600?mt=8)
+* [Yahoo Search (web)](https://search.yahoo.com/)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Sports: Fantasy Sports,"## In Scope
+* [Yahoo Fantasy Sports Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.fantasyfootball)
+* [Yahoo Fantasy Sports iOS](https://itunes.apple.com/us/app/yahoo-fantasy-sports/id328415391?mt=8)
+* [Yahoo Fantasy Sports (web)](https://sports.yahoo.com/fantasy/)
+* https://sports.yahoo.com/odds/
+
+## Notes
+The betting feature in Fantasy is provided by a third party, BetMGM. `https://sports.yahoo.com/odds/`, is the page from where it redirects the user to the BetMGM. This is geographically restricted."
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Sports: Mobile,"* [Yahoo Sports Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.sportacular)
+* [Yahoo Sports iOS](https://itunes.apple.com/us/app/yahoo-sports-teams-scores-news-highlights/id286058814?mt=8)
+* *.protrade.com"
+hackerone,Yahoo!,https://hackerone.com/yahoo,ios,,Yahoo Sports: Rivals,"## In Scope
+* https://n.rivals.com
+* https://www.rivals.com/
+
+## Notes
+All testing against rivals is to be **MANUAL only.** ZERO automated tools are allowed. **This notice is your warning.**
+
+## Out of Scope
+* *.rivalsfanstore.com (3rd party, Fanatics Inc.)
+* *.rivalscamps.com (3rd party)
+* *.rivalscampseries.com (3rd party)
+* [Rivals iOS](https://itunes.apple.com/us/app/rivals-com-no-1-college-sports-recruiting-news/id1069511855?mt=8)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,Yahoo Weather,"* [Yahoo Weather Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.weather)
+* [Yahoo Weather iOS](https://itunes.apple.com/us/app/yahoo-weather/id628677149?mt=8)
+* Yahoo Weather (web)"
+hackerone,Yahoo!,https://hackerone.com/yahoo,ios,,com.yahoo.aerogram,[Yahoo Mail iOS](https://apps.apple.com/us/app/yahoo-mail-keeps-you-organized/id577586159)
+hackerone,Yahoo!,https://hackerone.com/yahoo,android,,com.yahoo.mobile.client.android.mail,"* [Yahoo Mail Android](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail)
+* [Yahoo Mail AndroidGo](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail.lite)
+* [Yahoo Mail FireOS](https://www.amazon.com/Yahoo-Mail-Keeps-you-organized/dp/B00632HWOG/)
+* Sign up for the [Beta here](https://play.google.com/apps/testing/com.yahoo.mobile.client.android.mail)"
+hackenproof,Asymetrix Web,https://hackenproof.com/asymetrix/asymetrix-web,android,,,https://app.asymetrix.io/
+hackenproof,BTSE Bug Bounty Program,https://hackenproof.com/btse/btse-bug-bounty-program,android,,,https://play.google.com/store/apps/details?id=com.btse.finance
+hackenproof,BTSE Bug Bounty Program,https://hackenproof.com/btse/btse-bug-bounty-program,ios,,,https://apps.apple.com/ng/app/btse/id1494556510
+hackenproof,BigONE Global Exchange,https://hackenproof.com/bigone-global-exchange/bigone-global-exchange,android,,,https://play.google.com/store/apps/details?id=one.big
+hackenproof,BigONE Global Exchange,https://hackenproof.com/bigone-global-exchange/bigone-global-exchange,ios,,,https://apps.apple.com/us/app/bigone/id1485385044
+hackenproof,BingX Exchange,https://hackenproof.com/bingx/bingx-exchange,android,,,https://play.google.com/store/apps/details?id=pro.bingbon.app
+hackenproof,BingX Exchange,https://hackenproof.com/bingx/bingx-exchange,ios,,,https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
+hackenproof,BitForex,https://hackenproof.com/bitforex/bitforex,ios,,,https://m.bitforex.com/en/download
+hackenproof,BitMart Exchange,https://hackenproof.com/bitmart-exchange/bitmart-exchange,ios,,,https://apps.apple.com/us/app/bitmart-buy-bitcoin-crypto/id1396382871
+hackenproof,BitMart Exchange,https://hackenproof.com/bitmart-exchange/bitmart-exchange,android,,,https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
+hackenproof,Bitexen Web & App,https://hackenproof.com/bitexen/bitexen-web-and-app,android,,,com.bitexen.exchange - Android App Bitexen
+hackenproof,Bitexen Web & App,https://hackenproof.com/bitexen/bitexen-web-and-app,ios,,,ID 1388036461 - iOS App Bitexen
+hackenproof,Bitexen Web & App,https://hackenproof.com/bitexen/bitexen-web-and-app,android,,,com.bitexenglobal.exchangeapp - Android App Bitexen Global
+hackenproof,Bitexen Web & App,https://hackenproof.com/bitexen/bitexen-web-and-app,ios,,,ID 1634643482 - iOS App Bitexen Global
+hackenproof,Bitkub,https://hackenproof.com/bitkub/bitkub,ios,,,iOS App
+hackenproof,Bitkub,https://hackenproof.com/bitkub/bitkub,android,,,Android App
+hackenproof,Bitrue,https://hackenproof.com/bitrue/bitrue,android,,,Android App
+hackenproof,Bitrue,https://hackenproof.com/bitrue/bitrue,ios,,,iOS App
+hackenproof,Bitunix Web & Mobile,https://hackenproof.com/bitunix/bitunix-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=io.bitunix.android
+hackenproof,Bitunix Web & Mobile,https://hackenproof.com/bitunix/bitunix-web-and-mobile,ios,,,https://apps.apple.com/us/app/bitunix-crypto-btc-trading/id6446243957?platform=iphone
+hackenproof,BloFin Web & Mobile,https://hackenproof.com/blofin/blofin-web-and-mobile,ios,,,https://apps.apple.com/tt/app/blofin/id1616804346
+hackenproof,BloFin Web & Mobile,https://hackenproof.com/blofin/blofin-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.blofin.android
+hackenproof,CITEX Web & API,https://hackenproof.com/citex-exchange/citex-web-and-api,android,,,https://play.google.com/store/apps/details?id=com.chainup.exchange.CITEX
+hackenproof,CITEX Web & API,https://hackenproof.com/citex-exchange/citex-web-and-api,ios,,,https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
+hackenproof,Coin98,https://hackenproof.com/coin98/coin98,android,,,https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
+hackenproof,Coin98,https://hackenproof.com/coin98/coin98,ios,,,https://apps.apple.com/us/app/coin98-wallet/id1561969966
+hackenproof,CoinGecko,https://hackenproof.com/coingecko/coingecko,android,,,Android App
+hackenproof,CoinTR Pro Mobile & API,https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api,android,,,https://play.google.com/store/apps/details?id=pro.cointr
+hackenproof,CoinTR Pro Mobile & API,https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api,ios,,,https://apps.apple.com/app/id6444928783
+hackenproof,CoinW Web & Mobile,https://hackenproof.com/coinw/coinw-web-and-mobile,ios,,,https://apps.apple.com/us/app/coinw/id1494077068
+hackenproof,CoinW Web & Mobile,https://hackenproof.com/coinw/coinw-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.coinw.win&hl=en&gl=US
+hackenproof,Coinsbit,https://hackenproof.com/coinsbit/coinsbit,ios,,,iOS App
+hackenproof,Coinsbit,https://hackenproof.com/coinsbit/coinsbit,android,,,Android App
+hackenproof,Coinstore,https://hackenproof.com/coinstore/coinstore,android,,,https://play.google.com/store/apps/details?id=com.io.coinstore
+hackenproof,Coinstore,https://hackenproof.com/coinstore/coinstore,ios,,,https://apps.apple.com/app/id1567160644
+hackenproof,Cryptology,https://hackenproof.com/cryptology/cryptology,android,,,https://play.google.com/store/apps/details?id=com.cryptology.flutter
+hackenproof,Cryptology,https://hackenproof.com/cryptology/cryptology,ios,,,https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+hackenproof,Deepcoin Web & Mobile,https://hackenproof.com/deepcoin/deepcoin-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+hackenproof,Dexalot Web & Mobile,https://hackenproof.com/dexalot/dexalot-web-and-mobile,android,,,https://app.dexalot.com
+hackenproof,EXMO,https://hackenproof.com/exmo/exmo,android,,,Mobile App
+hackenproof,EXMO,https://hackenproof.com/exmo/exmo,ios,,,Mobile App
+hackenproof,EXZi Web & Mobile,https://hackenproof.com/exzi/exzi-web-and-mobile,ios,,,https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
+hackenproof,EXZi Web & Mobile,https://hackenproof.com/exzi/exzi-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.exzi.app
+hackenproof,Gate.io Exchange,https://hackenproof.com/gate-dot-io/gate-dot-io-exchange,android,,,Android App
+hackenproof,IoTeX,https://hackenproof.com/iotex/iotex,android,,,https://play.google.com/store/apps/details?id=io.iotex.iopay.gp
+hackenproof,IoTeX,https://hackenproof.com/iotex/iotex,ios,,,https://apps.apple.com/ua/app/iopay-multichain-crypto-wallet/id1478086371
+hackenproof,Kuna Crypto Exchange,https://hackenproof.com/kuna/kuna-crypto-exchange,ios,,,https://apps.apple.com/ua/app/kuna-io-Ð¿Ð¾ÐºÑÐ¿ÐºÐ°-Ð¿ÑÐ¾Ð´Ð°Ð¶Ð°-btc/id1457062155?l=ru
+hackenproof,Kuna Crypto Exchange,https://hackenproof.com/kuna/kuna-crypto-exchange,android,,,https://play.google.com/store/apps/details?id=kuna.beta
+hackenproof,Latoken Exchange,https://hackenproof.com/latoken/latoken-exchange,ios,,,iOS App
+hackenproof,Latoken Exchange,https://hackenproof.com/latoken/latoken-exchange,android,,,Android App
+hackenproof,MyEtherWallet,https://hackenproof.com/myetherwallet/myetherwallet,ios,,,IOS App MEW wallet
+hackenproof,MyEtherWallet,https://hackenproof.com/myetherwallet/myetherwallet,android,,,Android App MEW wallet
+hackenproof,NiceHash Mining platform,https://hackenproof.com/nicehash/nicehash-mining-platform,android,,,https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
+hackenproof,NiceHash Mining platform,https://hackenproof.com/nicehash/nicehash-mining-platform,ios,,,https://apps.apple.com/si/app/nicehash/id1372054956
+hackenproof,OKX,https://hackenproof.com/okx-1/okx,android,,,Android App
+hackenproof,OKX,https://hackenproof.com/okx-1/okx,ios,,,iOS App
+hackenproof,Okcoin,https://hackenproof.com/okcoin/okcoin,android,,,https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
+hackenproof,Okcoin,https://hackenproof.com/okcoin/okcoin,ios,,,https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
+hackenproof,Pionex App & API,https://hackenproof.com/pionex/pionex-app-and-api,android,,,https://play.google.com/store/apps/details?id=com.pionex.client&referrer=utm_source%3Dofficialweb
+hackenproof,Pionex App & API,https://hackenproof.com/pionex/pionex-app-and-api,ios,,,https://apps.apple.com/us/app/pionex/id1485348891
+hackenproof,PointPay Web & Mobile,https://hackenproof.com/pointpay/pointpay-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.pointpay.bank
+hackenproof,PointPay Web & Mobile,https://hackenproof.com/pointpay/pointpay-web-and-mobile,ios,,,https://apps.apple.com/us/app/id1512836089
+hackenproof,ProBit Web & Mobile,https://hackenproof.com/probit-global/probit-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
+hackenproof,ProBit Web & Mobile,https://hackenproof.com/probit-global/probit-web-and-mobile,ios,,,https://apps.apple.com/app/probit-global/id1621264266
+hackenproof,ShapeShift,https://hackenproof.com/shape-shift/shapeshift,android,,,The Shapeshift Mobile App: https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift&hl=en_US&gl=US
+hackenproof,Status,https://hackenproof.com/status-dot-app/status,ios,,,https://apps.apple.com/us/app/status-private-communication/id1178893006
+hackenproof,Status,https://hackenproof.com/status-dot-app/status,android,,,https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
+hackenproof,Toobit Web & Mobile,https://hackenproof.com/toobit/toobit-web-and-mobile,android,,,https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1
+hackenproof,Toobit Web & Mobile,https://hackenproof.com/toobit/toobit-web-and-mobile,ios,,,https://apps.apple.com/app/id1660882885
+hackenproof,Trustee Plus Mobile,https://hackenproof.com/trustee/trustee-plus-mobile,ios,,,https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
+hackenproof,Trustee Plus Mobile,https://hackenproof.com/trustee/trustee-plus-mobile,android,,,https://play.google.com/store/apps/details?id=com.trusteeplus
+hackenproof,VeChainThor Wallet,https://hackenproof.com/vechain/vechainthor-wallet,ios,,,iOS Wallet
+hackenproof,VeChainThor Wallet,https://hackenproof.com/vechain/vechainthor-wallet,android,,,Android Wallet
+hackenproof,WhiteBIT,https://hackenproof.com/whitebit/whitebit,android,,,Android App
+hackenproof,WhiteBIT,https://hackenproof.com/whitebit/whitebit,ios,,,iOS App
+hackenproof,XT,https://hackenproof.com/xt/xt,ios,,,https://apps.apple.com/app/apple-store/id1556596708
+hackenproof,XT,https://hackenproof.com/xt/xt,android,,,https://play.google.com/store/apps/details?id=com.app.xt
